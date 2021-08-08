@@ -1,0 +1,116 @@
+synonym:
+  entities:
+    "1":
+      synonyms:
+      - "1"
+    "2":
+      synonyms:
+      - "2"
+    "3":
+      synonyms:
+      - "3"
+    "4":
+      synonyms:
+      - "4"
+    "5":
+      synonyms:
+      - "5"
+    "6":
+      synonyms:
+      - "6"
+    6X:
+      synonyms:
+      - 6X
+      - 6 Diamond
+      - Diamond 6
+      - 6 Express
+    "7":
+      synonyms:
+      - "7"
+    7X:
+      synonyms:
+      - 7X
+      - 7 Diamond
+      - Diamond 7
+      - 7 Express
+    A:
+      synonyms:
+      - A
+    B:
+      synonyms:
+      - B
+    C:
+      synonyms:
+      - C
+    D:
+      synonyms:
+      - D
+    E:
+      synonyms:
+      - E
+    F:
+      synonyms:
+      - F
+    FS:
+      synonyms:
+      - FS
+      - S Franklin
+      - S Franklin Avenue
+      - Franklin S
+      - Franklin Avenue S
+      - Franklin Shuttle
+      - Franklin Avenue Shuttle
+    FX:
+      synonyms:
+      - FX
+      - F Diamond
+      - Diamond F
+      - F Express
+    G:
+      synonyms:
+      - G
+    GS:
+      synonyms:
+      - GS
+      - Grand Central Times Square Shuttle
+      - S 42nd Street
+      - 42nd Street S
+      - 42nd Shuttle
+      - 42nd Street Shuttle
+      - Grand Central Shuttle
+      - Times Square Shuttle
+    H:
+      synonyms:
+      - H
+      - S Rockaway
+      - S Rockaway Park
+      - Rockaway Park S
+      - Rockaway Park Shuttle
+      - Rockaway Shuttle
+    J:
+      synonyms:
+      - J
+    L:
+      synonyms:
+      - L
+    M:
+      synonyms:
+      - M
+    "N":
+      synonyms:
+      - "N"
+    Q:
+      synonyms:
+      - Q
+    R:
+      synonyms:
+      - R
+    SI:
+      synonyms:
+      - SI
+      - SIR
+      - Staten Island Railway
+    W:
+      synonyms:
+      - W
+  matchType: EXACT_MATCH

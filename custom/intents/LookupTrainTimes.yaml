@@ -1,0 +1,32 @@
+parameters:
+- name: Station
+  type:
+    name: station
+trainingPhrases:
+- lookup train times
+- when is the next train arriving at ($Station 'station' auto=false)
+- when is the next train arriving
+- when are the next trains for ($Station 'station' auto=false)
+- when are the next trains
+- when is the next train coming to ($Station 'station' auto=false)
+- when is the next train coming
+- when are the next trains arriving at ($Station 'station' auto=false)
+- when are the next trains arriving
+- what are the next arrival times for ($Station 'station' auto=false)
+- what are the next arrival times
+- the next trains at ($Station 'station' auto=false)
+- when will the next trains arrive at ($Station 'station' auto=false)
+- when are the next train times
+- when is my next train arriving
+- when is the next ($Station 'station' auto=false) train
+- what is the next arrival for ($Station 'station' auto=false)
+- when is the next train going to ($Station 'station' auto=false)
+- when will the next train arrive ($Station 'station' auto=false)
+- when does the next train arrive
+- when the next train is at ($Station 'station' auto=false)
+- when is the next train
+- when will the next train arrive
+- what is the next train
+- when is the next arrival
+- the next train times
+- lookup train times for ($Station '{station}' auto=false)
