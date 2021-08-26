@@ -1,0 +1,10 @@
+conditionalEvents:
+- condition: scene.slots.status == "FINAL"
+  transitionToScene: TrainTimes
+slots:
+- commitBehavior:
+    writeSessionParam: Station
+  name: Station
+  required: true
+  type:
+    name: Station

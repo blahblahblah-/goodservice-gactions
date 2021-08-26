@@ -3,54 +3,75 @@ synonym:
     "1":
       synonyms:
       - "1"
+      - 1 train
     "2":
       synonyms:
       - "2"
+      - 2 train
     "3":
       synonyms:
       - "3"
+      - 3 train
     "4":
       synonyms:
       - "4"
+      - 4 train
     "5":
       synonyms:
       - "5"
+      - 5 train
     "6":
       synonyms:
       - "6"
+      - 6 train
     6X:
       synonyms:
       - 6X
       - 6 Diamond
       - Diamond 6
       - 6 Express
+      - 6X train
+      - 6 Diamond train
+      - Diamond 6 train
+      - 6 Express train
     "7":
       synonyms:
       - "7"
+      - 7 train
     7X:
       synonyms:
       - 7X
       - 7 Diamond
       - Diamond 7
       - 7 Express
+      - 7X train
+      - 7 Diamond train
+      - Diamond 7 train
+      - 7 Express train
     A:
       synonyms:
       - A
+      - A train
     B:
       synonyms:
       - B
+      - B train
     C:
       synonyms:
       - C
+      - C train
     D:
       synonyms:
       - D
+      - D train
     E:
       synonyms:
       - E
+      - E train
     F:
       synonyms:
       - F
+      - F train
     FS:
       synonyms:
       - FS
@@ -60,15 +81,25 @@ synonym:
       - Franklin Avenue S
       - Franklin Shuttle
       - Franklin Avenue Shuttle
+      - FS train
+      - Franklin S train
+      - Franklin Avenue S train
+      - Franklin train
+      - Franklin Avenue train
     FX:
       synonyms:
       - FX
       - F Diamond
       - Diamond F
       - F Express
+      - FX train
+      - F Diamond train
+      - Diamond F train
+      - F Express train
     G:
       synonyms:
       - G
+      - G train
     GS:
       synonyms:
       - GS
@@ -79,6 +110,10 @@ synonym:
       - 42nd Street Shuttle
       - Grand Central Shuttle
       - Times Square Shuttle
+      - GS train
+      - S train
+      - 42nd Street train
+      - 42nd Street S train
     H:
       synonyms:
       - H
@@ -87,30 +122,48 @@ synonym:
       - Rockaway Park S
       - Rockaway Park Shuttle
       - Rockaway Shuttle
+      - H train
+      - Rockaway Park train
+      - S Rockaway train
+      - S Rockaway Park train
     J:
       synonyms:
       - J
+      - J train
     L:
       synonyms:
       - L
+      - L train
     M:
       synonyms:
       - M
+      - M train
     "N":
       synonyms:
       - "N"
+      - N train
     Q:
       synonyms:
       - Q
+      - Q train
     R:
       synonyms:
       - R
+      - R train
     SI:
       synonyms:
       - SI
       - SIR
       - Staten Island Railway
+      - SI train
+      - SIR train
+      - Staten Island Railway train
     W:
       synonyms:
       - W
+      - W train
+    Z:
+      synonyms:
+      - Z
+      - Z train
   matchType: EXACT_MATCH

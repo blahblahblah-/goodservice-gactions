@@ -1,0 +1,7 @@
+handlers:
+- name: LookupTrainStatus
+- name: LookupTrainTimes
+- name: LookupDelays
+httpsEndpoint:
+  baseUrl: https://www.goodservice.io/api/gactions
+  endpointApiVersion: 2

@@ -1,0 +1,23 @@
+intentEvents:
+- intent: LookupTrainStatus
+  transitionToScene: TrainStatus
+- intent: LookupTrainTimes
+  transitionToScene: TrainTimes
+- intent: TrainStatus
+  transitionToScene: TrainStatusPrompt
+- intent: TrainTimes
+  transitionToScene: TrainTimesPrompt
+- intent: TrainDelays
+  transitionToScene: Delays
+onEnter:
+  staticPrompt:
+    candidates:
+    - promptResponse:
+        firstSimple:
+          variants:
+          - speech: Would you like to hear about a train's status, upcoming train
+              arrival times or train delays?
+        suggestions:
+        - title: Train Status
+        - title: Arrival Times
+        - title: Train Delays

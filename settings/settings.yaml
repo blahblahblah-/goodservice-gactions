@@ -1,6 +1,23 @@
+category: TRAVEL_AND_TRANSPORTATION
 defaultLocale: en
 localizedSettings:
-  displayName: good service
+  developerEmail: sunny@sunny-ng.com
+  developerName: Sunny Ng
+  displayName: goodservice
+  fullDescription: Powered by goodservice.io, this action provides real-time statuses
+    of each train line, as well as upcoming train arrival times for any station of
+    the New York City subway system. goodservice.io uses real-time data to determine
+    train delays, gaps in wait times and issues with train speeds for each subway
+    line. Accurate estimates of train departure times at any station are calculated
+    using data from recent trains.
+  privacyPolicyUrl: https://docs.google.com/document/d/1eX5KEnDBqKKU0lkxrkSEaWOk7XaJqNJjfewCOO5Mkrw/edit?usp=sharing
   pronunciation: good service
+  sampleInvocations:
+  - Talk to goodservice
+  - Ask goodservice about train times at Bedford Avenue
+  - Ask goodservice about train delays
+  shortDescription: Get status of an NYC subway train and upcoming train arrival times
+    of a subway station.
+  smallLogoImage: https://lh3.googleusercontent.com/kKxKTma2NdrD0n8f3dAgU30p0ko4vmK4TSpdAx7Yy00H94fvyxe9K9A0NyTtG_wjUWuHxpV0R-8
   voice: female_1
 projectId: goodservice-fd034

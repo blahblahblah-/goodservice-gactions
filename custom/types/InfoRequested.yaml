@@ -1,0 +1,19 @@
+synonym:
+  entities:
+    Delayed Trains:
+      synonyms:
+      - Delayed Trains
+      - Delays
+      - Current Delays
+    Train Status:
+      synonyms:
+      - Train Status
+      - Subway Status
+      - Status
+    Train Times:
+      synonyms:
+      - Departure Times
+      - Arrival Times
+      - Train Times
+      - Times
+  matchType: FUZZY_MATCH

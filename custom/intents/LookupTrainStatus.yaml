@@ -1,0 +1,21 @@
+parameters:
+- name: Train
+  type:
+    name: Train
+trainingPhrases:
+- about the ($infoRequested1 'status' auto=true) of the ($Train 'C train' auto=true)
+- what's the status of the ($Train 'FX' auto=false)
+- how's the ($Train '42nd street shuttle' auto=false) doing
+- what's up with the ($Train '3' auto=false) train
+- status of ($Train 'M train' auto=false)
+- what's with the ($Train 'A train' auto=false)
+- how's the ($Train 'W' auto=false) doing
+- what's the ($Train 'J' auto=false) doing
+- what's going on with the ($Train 'R' auto=false)
+- what about the ($Train 'Q train' auto=false)
+- the status of the ($Train 'N train' auto=false)
+- what's the status of the ($Train '7' auto=false)
+- how's the status of the ($Train '4' auto=false)
+- how are the ($Train '6X trains' auto=false)
+- how is the ($Train 'F train' auto=false)
+- what is the status of the ($Train '1' auto=false)

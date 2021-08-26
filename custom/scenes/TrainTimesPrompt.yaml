@@ -1,0 +1,24 @@
+conditionalEvents:
+- condition: scene.slots.status == "FINAL"
+  transitionToScene: TrainTimes
+onEnter:
+  staticPrompt:
+    candidates:
+    - promptResponse:
+        firstSimple:
+          variants:
+          - speech: For which station?
+        suggestions:
+        - title: Times Square
+        - title: Grand Central
+        - title: Union Square
+        - title: Port Authority
+        - title: Bedford Avenue
+        - title: Flushing–Main Street
+slots:
+- commitBehavior:
+    writeSessionParam: Station
+  name: Station
+  required: true
+  type:
+    name: Station

@@ -1,0 +1,6 @@
+parameters:
+- name: InfoRequested
+  type:
+    name: InfoRequested
+trainingPhrases:
+- ($InfoRequested 'train status' auto=false)

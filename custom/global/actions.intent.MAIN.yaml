@@ -4,5 +4,5 @@ handler:
     - promptResponse:
         firstSimple:
           variants:
-          - speech: Start building your action by defining main invocation.
-transitionToScene: actions.scene.END_CONVERSATION
+          - speech: Welcome to goodservice.io!
+transitionToScene: Welcome

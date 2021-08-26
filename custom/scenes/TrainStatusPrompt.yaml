@@ -1,0 +1,26 @@
+conditionalEvents:
+- condition: scene.slots.status == "FINAL"
+  transitionToScene: TrainStatus
+onEnter:
+  staticPrompt:
+    candidates:
+    - promptResponse:
+        firstSimple:
+          variants:
+          - speech: Which train?
+        suggestions:
+        - title: "1"
+        - title: "2"
+        - title: "4"
+        - title: "7"
+        - title: A
+        - title: D
+        - title: E
+        - title: L
+slots:
+- commitBehavior:
+    writeSessionParam: Train
+  name: Train
+  required: true
+  type:
+    name: Train

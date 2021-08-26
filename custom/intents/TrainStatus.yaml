@@ -1,0 +1,4 @@
+trainingPhrases:
+- ($station1 'hear' auto=true) about a ($infoRequested1 'train\'s status' auto=true)
+- train status
+- status

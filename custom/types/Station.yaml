@@ -1,363 +1,354 @@
 synonym:
   entities:
-    J15,G11:
+    "101":
       synonyms:
-      - woodhaven boulevard
-    D20,A32:
+      - van cortlandt park 242nd street
+      - 242nd street
+      - van cortlandt park
+    "103":
       synonyms:
-      - west 4th street
-      - west 4th street washington square
-    '419,230':
+      - 238th street
+    "104":
       synonyms:
-      - wall street
-    J23,256,A53:
+      - 231st street
+    "106":
       synonyms:
-      - van siclen avenue
+      - marble hill 225th street
+      - marble hill
+    "107":
+      synonyms:
+      - 215th street
+    "108":
+      synonyms:
+      - 207th street
+    "109":
+      synonyms:
+      - dyckman street nagle avenue
+      - dikeman street nagle avenue
+      - dyckman street broadway 7th avenue line
+      - dyckman street IRT
+      - dyckman street 1 train
+    109,A03:
+      synonyms:
+      - dyckman street
+      - dikeman street
+    "110":
+      synonyms:
+      - 191st street
+    "111":
+      synonyms:
+      - 181st street saint nicholas avenue
+      - 181st street broadway 7th avenue line
+      - 181st and saint nick
+      - 181st and saint nicholas
+      - 181st street IRT
+      - 181st street 1 train
+    "112":
+      synonyms:
+      - 168th street broadway 7th avenue line
+      - 168th street IRT
+      - 168th street 7th avenue line
+      - 168th street 1 train
+    "113":
+      synonyms:
+      - 157th street
+    "114":
+      synonyms:
+      - 145th street broadway
+      - 145th street broadway 7th avenue line
+      - 145th street 1 train
+      - 145th and broadway
+    114,302,D13,A12:
+      synonyms:
+      - 145th street
+    "115":
+      synonyms:
+      - 137th street city college
+    "116":
+      synonyms:
+      - 125th street broadway
+      - 125th street broadway 7th avenue line
+      - 125th street 1 train
+      - 125th and broadway
+    116,225,521,A15:
+      synonyms:
+      - 125th street
+    "117":
+      synonyms:
+      - 116th street columbia university
+    117,226,622:
+      synonyms:
+      - 116th street
+    "118":
+      synonyms:
+      - cathedral parkway 110th street broadway
+      - cathedral parkway 110th street 1 train
+      - 110th street 1 train
+      - cathedral parkway 1 train
+      - cathedral parkway and broadway
+      - 110th street and broadway
+    118,A17:
+      synonyms:
+      - cathedral parkway 110th street
+      - cathedral parkway
+    "119":
+      synonyms:
+      - 103rd street broadway
+      - 103rd street broadway 7th avenue line
+      - 103rd and broadway
+      - 103rd street 1 train
+    119,A18,706,624:
+      synonyms:
+      - 103rd street
+    "120":
+      synonyms:
+      - 96th street broadway
+      - 96th street 3 train
+      - 96th street 2 train
+      - 96th street 1 train
+      - 96th street 1 2 and 3 trains
+      - 96th street 7th avenue line
+      - 96th and broadway
+    "121":
+      synonyms:
+      - 86th street broadway
+      - 86th street 1 train
+      - 86th and broadway
+    "122":
+      synonyms:
+      - 79th street broadway
+      - 79th street 7th avenue line
+      - 79th street manhattan
+      - 79th street IRT
+      - 79th street 1 train
+      - 79th and broadway
+    122,B18:
+      synonyms:
+      - 79th street
+    "123":
+      synonyms:
+      - 72nd street broadway
+      - 72nd street 7th avenue line
+      - 72nd street 3 train
+      - 72nd street 2 train
+      - 72nd street 1 train
+      - 72nd street 1 2 and 3 trains
+      - 72nd street IRT
+      - 72nd and broadway
+    "124":
+      synonyms:
+      - 66th street lincoln center
+    "125":
+      synonyms:
+      - 59th street columbus circle broadway 7th avenue line
+      - columbus circle 1 train
+      - columbus circle broadway line
+      - 59th street columbus circle IRT
+      - 59th street columbus circle 1 train
+      - 59th street columbus circle 7th avenue line
+      - columbus circle 7th avenue line
+      - columbus circle broadway 7th avenue line
+    "126":
+      synonyms:
+      - 50th street 7th avenue
+      - 50th street 1 train
+      - 50th and 7th
+      - 50th street IRT
+    126,A25:
+      synonyms:
+      - 50th street
+    "127":
+      synonyms:
+      - times square 42nd street 7th avenue line
+      - times square 42nd street 3 train
+      - times square 42nd street 2 train
+      - times square 42nd street 1 train
+      - times square 1 2 and 3 trains
+      - times square 42nd street 1 2 and 3 trains
     127,902,R16,725:
       synonyms:
       - times square 42nd street
       - times square
       - 42nd and broadway
       - 42nd and 7th
-    A33,638:
+    "128":
       synonyms:
-      - spring street
-    A50,253:
-      synonyms:
-      - rockaway avenue
-    139,R26:
-      synonyms:
-      - rector street
-    R09,718:
-      synonyms:
-      - queensboro plaza
-    R34,219:
-      synonyms:
-      - prospect avenue
-    '504,211':
-      synonyms:
-      - pelham parkway
-    228,S03:
-      synonyms:
-      - park place
-    248,A46:
-      synonyms:
-      - nostrand avenue
-      - nordstrom avenue
-    257,L27:
-      synonyms:
-      - new lots avenue
-    L17,M08:
-      synonyms:
-      - myrtle wyckoff avenues
-    M13,L10:
-      synonyms:
-      - lorimer street
-    D04,406:
-      synonyms:
-      - kingsbridge road
-    D35,F35,N08:
-      synonyms:
-      - kings highway
-    R29,A41:
-      synonyms:
-      - jay street metrotech
-    J29,L19:
-      synonyms:
-      - halsey street
-    '503,208':
-      synonyms:
-      - gun hill road
-    L12,D22:
-      synonyms:
-      - grand street
-    '901,723,631':
-      synonyms:
-      - grand central 42nd street
-      - grand central
-      - 42nd and park
-      - 42nd and lex
-      - 42nd street and lexington avenue
-    229,A38,418,M22,G36:
-      synonyms:
-      - fulton street
-      - fulton center
-    A45,S01,239:
-      synonyms:
-      - franklin avenue
-    N03,B13,F26:
-      synonyms:
-      - fort hamilton parkway
-    D05,407:
-      synonyms:
-      - fordham road
-    M12,G31:
-      synonyms:
-      - flushing avenue
-    109,A03:
-      synonyms:
-      - dyckman street
-      - dikeman street
-    R30,L16:
-      synonyms:
-      - dekalb avenue
-    F09,G22,719:
-      synonyms:
-      - court square
-    A44,G35:
-      synonyms:
-      - clinton washington avenues
-    D28,F27,244:
-      synonyms:
-      - church avenue
-    M21,A36,137:
-      synonyms:
-      - chambers street
-    118,A17:
-      synonyms:
-      - cathedral parkway 110th street
-      - cathedral parkway
-    A34,Q01,R23,M20,639,135:
-      synonyms:
-      - canal street
-    D21,G30:
-      synonyms:
-      - broadway
-    L22,A51,J27:
-      synonyms:
-      - broadway junction
-    '232,423':
-      synonyms:
-      - borough hall
-    D29,245:
-      synonyms:
-      - beverley road
-    236,F20:
-      synonyms:
-      - bergen street
-    B21,N07,F32:
-      synonyms:
-      - bay parkway
-    D37,F36,N09:
-      synonyms:
-      - avenue u
-    R31,D24,235:
-      synonyms:
-      - atlantic avenue barclays center
-      - barclays center
-    Q05,120,A19,625:
-      synonyms:
-      - 96th street
-    L01,N02:
-      synonyms:
-      - 8th avenue
-    Q04,R44,121,A20,626,N10:
-      synonyms:
-      - 86th street
-    D14,F24:
-      synonyms:
-      - 7th avenue
-    122,B18:
-      synonyms:
-      - 79th street
-    R43,627:
-      synonyms:
-      - 77th street
-    Q03,123,A22:
-      synonyms:
-      - 72nd street
-    R41,629,A24,125:
-      synonyms:
-      - 59th street
-    A24,125:
-      synonyms:
-      - 59th street columbus circle
-      - columbus circle
-    126,A25:
-      synonyms:
-      - 50th street
-    R36,G20:
-      synonyms:
-      - 36th street
-      - 36th street R train
+      - 34th street penn station 7th avenue
+      - 34th street penn station 3 train
+      - 34th street penn station 2 train
+      - 34th street penn station 1 train
+      - 34th street penn station 1 2 and 3 trains
+      - 34th street 7th avenue
+      - 34th street penn station IRT
+      - penn station IRT
+      - 34th and 7th
     128,A28:
       synonyms:
       - 34th street penn station
       - penn station
-    D17,R17:
+    "129":
       synonyms:
-      - 34th street herald square
-      - 34th and broadway
-      - 34th and 6th
-      - herald square
+      - 28th street 7th avenue
+      - 28th street 1 train
+      - 28th and 7th
     129,R18,633:
       synonyms:
       - 28th street
-    D18,130,A30,R19,634:
+    "130":
       synonyms:
-      - 23rd street
-    N06,B20:
+      - 23rd street 7th avenue
+      - 23rd street 1 train
+      - 23rd and 7th
+    "131":
       synonyms:
-      - 20th avenue
-    N05,F30,B19:
+      - 18th street
+    "132":
       synonyms:
-      - 18th avenue
-    A06,111:
+      - 14th street 7th avenue
+      - 14th street 3 train
+      - 14th street 2 train
+      - 14th street 1 train
+      - 14th street 1 2 and 3 trains
+      - 14th and 7th
+    "133":
       synonyms:
-      - 181st street
-    D09,412:
+      - christopher street sheridan square
+    "134":
       synonyms:
-      - 170th street
-    A09,112:
+      - houston street
+      - squarespace
+    "135":
       synonyms:
-      - 168th street
-      - 168th and broadway
-      - 168th street washington heights
-    D10,413:
+      - canal street varick street
+      - canal street 1 train
+      - canal street broadway 7th avenue line
+      - canal street 7th avenue line
+      - canal and varick
+    "136":
       synonyms:
-      - 167th street
-    D11,414:
+      - franklin street
+    "137":
       synonyms:
-      - 161th street yankee stadium
-      - yankee stadium
-      - 161th street
-    D12,A11:
+      - chambers street west broadway
+      - chambers street 3 train
+      - chambers street 2 train
+      - chambers street 1 train
+      - chambers street 1 2 and 3 trains
+      - chambers street IRT
+      - chambers street 7th avenue line
+      - chambers street broadway 7th avenue line
+      - chambers and west broadway
+    "138":
       synonyms:
-      - 155th street
-    R20,L03,635:
+      - wtc cortlandt
+    "139":
       synonyms:
-      - 14th street union square
-      - 14th and park
-      - 14th and broadway
-      - union square
-    D19,132,A31,R20,L03,635:
+      - rector street greenwich street
+      - rector and greenwich
+      - rector street 1 train
+      - rector street 7th avenue line
+      - rector street broadway 7th avenue line
+      - rector street IRT
+    139,R26:
       synonyms:
-      - 14th street
-    '222,415':
+      - rector street
+    "142":
+      synonyms:
+      - south ferry
+    "201":
+      synonyms:
+      - wakefield 241st street
+      - 241st street
+      - wakefield
+    "204":
+      synonyms:
+      - nereid avenue
+    "205":
+      synonyms:
+      - 233rd street
+    "206":
+      synonyms:
+      - 225th street
+    "207":
+      synonyms:
+      - 219th street
+    "208":
+      synonyms:
+      - gun hill road white plains road
+      - gun hill road 2 train
+      - gun hill road 2 and 5 trains
+    "209":
+      synonyms:
+      - burke avenue
+    "210":
+      synonyms:
+      - allerton avenue
+    "211":
+      synonyms:
+      - pelham parkway white plains road
+      - pelham parkway 2 and 5 trains
+      - pelham parkway 2 train
+    "212":
+      synonyms:
+      - bronx park east
+    "213":
+      synonyms:
+      - east 180th street
+    "214":
+      synonyms:
+      - west farms square east tremont avenue
+      - west farms square
+    "215":
+      synonyms:
+      - 174th street
+    "216":
+      synonyms:
+      - freeman street
+    "217":
+      synonyms:
+      - simpson street
+    "218":
+      synonyms:
+      - intervale avenue
+    "219":
+      synonyms:
+      - prospect avenue westchester avenue
+      - prospect avenue 5 train
+      - prospect avenue 2 train
+      - prospect avenue 2 and 5 trains
+      - prospect avenue bronx
+      - prospect avenue white plains road line
+      - prospect and westchester
+    "220":
+      synonyms:
+      - jackson avenue
+    "221":
+      synonyms:
+      - 3rd avenue 149th street
+    "222":
+      synonyms:
+      - 149th street grand concourse lower level
+      - 149th street grand concourse 5 train
+      - 149th street grand concourse 2 train
+      - 149th street grand concourse 2 and 5 trains
+      - 149th street grand concourse white plains road line
+    222,415:
       synonyms:
       - 149th street grand concourse
       - 149th street
       - 149th and concourse
-    114,302,D13,A12:
+    "224":
       synonyms:
-      - 145th street
+      - 135th street lenox avenue
+      - 135th street 3 train
+      - 135th street 2 train
+      - 135th street 2 and 3 trains
+      - 135th and malcolm x
+      - 135th and lenox
     224,A14:
       synonyms:
       - 135th street
-    116,225,521,A15:
-      synonyms:
-      - 125th street
-    '117,226,622':
-      synonyms:
-      - 116th street
-    J13,A64,705:
-      synonyms:
-      - 111th street
-    J14,A63:
-      synonyms:
-      - 104th street
-    119,A18,706,624:
-      synonyms:
-      - 103rd street
-    '119':
-      synonyms:
-      - 103rd street broadway
-      - 103rd street broadway 7th avenue line
-      - 103rd and broadway
-      - 103rd street 1 train
-    A18:
-      synonyms:
-      - 103rd street central park west
-      - 103rd street 8th avenue line
-      - 103rd street C train
-      - 103rd street B train
-      - 103rd and CPW
-      - 103rd and central park west
-      - 103rd street B and C trains
-    '706':
-      synonyms:
-      - 103rd street corona plaza
-      - 103rd and roosevelt
-      - 103rd street 7 train
-      - 103rd street queens
-    '624':
-      synonyms:
-      - 103rd street lexington avenue
-      - 103rd street 6 train
-      - 103rd and lex
-      - 103rd and lexington
-    J14:
-      synonyms:
-      - 104th street jamaica avenue
-      - 104th street BMT
-      - 104th street Z train
-      - 104th street J train
-      - 104th street J and Z trains
-      - 104th street jamaica line
-      - 104th and jamaica
-    A63:
-      synonyms:
-      - 104th street liberty avenue
-      - 104th street IND
-      - 104th street fulton street line
-      - 104th street A train
-      - 104th and liberty
-    '623':
-      synonyms:
-      - 110th street
-    J13:
-      synonyms:
-      - 111th street jamaica avenue
-      - 111th street jamaica line
-      - 111th street J train
-      - 111th and jamaica
-    A64:
-      synonyms:
-      - 111th street liberty avenue
-      - 111th street fulton street line
-      - 111th street A train
-      - 111th and liberty
-    '705':
-      synonyms:
-      - 111th street roosevelt avenue
-      - 111th street flushing line
-      - 111th street 7 train
-      - 111th and roosevelt
-    A16:
-      synonyms:
-      - 116th street central park west
-      - 116th street C train
-      - 116th street B train
-      - 116th street B and C trains
-      - 116th and CPW
-      - 116th and central park west
-    '117':
-      synonyms:
-      - 116th street columbia university
-    '226':
-      synonyms:
-      - 116th street lenox avenue
-      - 116th street 3 train
-      - 116th street 2 train
-      - 116th street 2 and 3 trains
-      - 116th and malcolm x
-      - 116th and lenox
-    '622':
-      synonyms:
-      - 116th street lexington avenue
-      - 116th street 6 train
-      - 116th and lex
-      - 116th and lexington
-    J12:
-      synonyms:
-      - 121st street
-    '116':
-      synonyms:
-      - 125th street broadway
-      - 125th street broadway 7th avenue line
-      - 125th street 1 train
-      - 125th and broadway
-    '225':
+    "225":
       synonyms:
       - 125th street lenox avenue
       - 125th street 3 train
@@ -365,7 +356,372 @@ synonym:
       - 125th street 2 and 3 trains
       - 125th and malcolm x
       - 125th and lenox
-    '621':
+    "226":
+      synonyms:
+      - 116th street lenox avenue
+      - 116th street 3 train
+      - 116th street 2 train
+      - 116th street 2 and 3 trains
+      - 116th and malcolm x
+      - 116th and lenox
+    "227":
+      synonyms:
+      - central park north 110th street
+      - 110th and malcolm x
+      - 110th and lenox
+      - 110th street 2 and 3 trains
+    "228":
+      synonyms:
+      - park place broadway
+      - park place 3 train
+      - park place 2 train
+      - park place 2 and 3 trains
+      - park place broadway 7th avenue line
+      - park place 7th avenue line
+      - park place manhattan
+    228,S03:
+      synonyms:
+      - park place
+    "229":
+      synonyms:
+      - fulton street broadway nassau street 7th avenue line
+      - fulton street 3 train
+      - fulton street 2 train
+      - fulton street 2 and 3 trains
+      - fulton street 7th avenue line
+    229,A38,418,M22,G36:
+      synonyms:
+      - fulton street
+      - fulton center
+    "230":
+      synonyms:
+      - wall street william street
+      - wall street 3 train
+      - wall street 2 train
+      - wall street 2 and 3 trains
+      - wall and william
+      - wall street 7th avenue line
+      - wall street broadway 7th avenue line
+    "231":
+      synonyms:
+      - clark street
+    "232":
+      synonyms:
+      - borough hall 7th avenue line
+      - borough hall 3 train
+      - borough hall 2 train
+      - borough hall 2 and 3 trains
+    232,423:
+      synonyms:
+      - borough hall
+    "233":
+      synonyms:
+      - hoyt street
+    "234":
+      synonyms:
+      - nevins street
+    "235":
+      synonyms:
+      - atlantic avenue barclays center eastern parkway line
+      - atlantic avenue barclays center 5 train
+      - atlantic avenue barclays center 4 train
+      - atlantic avenue barclays center 3 train
+      - atlantic avenue barclays center 2 train
+      - atlantic avenue 2 3 4 and 5 trains
+      - barclays center 2 3 4 and 5 trains
+      - atlantic avenue barclays center 2 3 4 and 5 trains
+      - barclays center eastern parkway line
+    "236":
+      synonyms:
+      - bergen street flatbush avenue
+      - bergen street IRT
+      - bergen street eastern parkway line
+      - bergen street 3 train
+      - bergen street 2 train
+      - bergen street 2 and 3 trains
+    236,F20:
+      synonyms:
+      - bergen street
+    "237":
+      synonyms:
+      - grand army plaza
+    "238":
+      synonyms:
+      - eastern parkway brooklyn museum
+    "239":
+      synonyms:
+      - franklin avenue medgar evers college
+      - franklin avenue 5 train
+      - franklin avenue 4 train
+      - franklin avenue 3 train
+      - franklin avenue 2 train
+      - franklin avenue 2 3 4 and 5 trains
+      - franklin avenue IRT
+      - franklin avenue eastern parkway
+    "241":
+      synonyms:
+      - president street medgar evers college
+    "242":
+      synonyms:
+      - sterling street
+    "243":
+      synonyms:
+      - winthrop street
+    "244":
+      synonyms:
+      - church avenue nostrand avenue
+      - church avenue nordstrom avenue
+      - church avenue 5 train
+      - church avenue 2 train
+      - church avenue 2 and 5 trains
+    "245":
+      synonyms:
+      - beverly road nostrand avenue
+      - beverly road nordstrom avenue
+      - beverly road 5 train
+      - beverly road 2 train
+      - beverly road 2 and 5 trains
+      - beverly road IRT
+    "246":
+      synonyms:
+      - newkirk avenue
+    "247":
+      synonyms:
+      - flatbush avenue brooklyn college
+      - brooklyn college
+      - flatbush avenue
+    "248":
+      synonyms:
+      - nostrand avenue eastern parkway
+      - nordstrom avenue eastern parkway
+      - nostrand and eastern
+      - nostrand avenue 3 train
+    248,A46:
+      synonyms:
+      - nostrand avenue
+      - nordstrom avenue
+    "249":
+      synonyms:
+      - kingston avenue
+    "250":
+      synonyms:
+      - crown heights utica avenue
+    "251":
+      synonyms:
+      - sutter avenue rutland road
+    "252":
+      synonyms:
+      - saratoga avenue
+    "253":
+      synonyms:
+      - rockaway avenue livonia avenue
+      - rockaway avenue 3 train
+      - rockaway avenue new lots line
+    "254":
+      synonyms:
+      - junius street
+    "255":
+      synonyms:
+      - pennsylvania avenue
+    "256":
+      synonyms:
+      - van siclen avenue livonia avenue
+      - van siclen avenue IRT
+      - van siclen avenue new lots line
+      - van siclen avenue 3 train
+    "257":
+      synonyms:
+      - new lots avenue livonia avenue
+      - new lots avenue 3 train
+      - new lots avenue new lots line
+    257,L27:
+      synonyms:
+      - new lots avenue
+    "301":
+      synonyms:
+      - harlem 148th street
+      - lenox terminal
+      - 148th street
+    "302":
+      synonyms:
+      - 145th street lenox avenue
+      - 145th street 3 train
+      - 145th street 2 train
+      - 145th street 2 and 3 trains
+      - 145th and malcolm x
+      - 145th and lenox
+    "401":
+      synonyms:
+      - woodlawn
+    "402":
+      synonyms:
+      - mosholu parkway
+    "405":
+      synonyms:
+      - bedford park boulevard lehman college
+    "406":
+      synonyms:
+      - kingsbridge road jerome avenue
+      - kingsbridge road 4 train
+      - kingsbridge and jerome
+    "407":
+      synonyms:
+      - fordham road jerome avenue
+      - fordham road 4 train
+      - fordham and jerome
+    "408":
+      synonyms:
+      - 183rd street
+    "409":
+      synonyms:
+      - burnside avenue
+    "410":
+      synonyms:
+      - 176th street
+    "411":
+      synonyms:
+      - mount eden avenue
+    "412":
+      synonyms:
+      - 170th street jerome avenue
+      - 170th street 4 train
+      - 170th and jerome
+    "413":
+      synonyms:
+      - 167th street river avenue
+      - 167th street jerome avenue line
+      - 167th street 4 train
+      - 167th and river
+    "414":
+      synonyms:
+      - 161st street yankee stadium jerome avenue line
+      - 161st street yankee stadium IRT
+      - yankee stadium IRT
+      - yankee stadium 4 train
+      - 161st street yankee stadium 4 train
+      - yankee stadium jerome avenue line
+    "415":
+      synonyms:
+      - 149th street grand concourse upper level
+      - 149th street grand concourse 4 train
+      - 149th street grand concourse jerome avenue line
+    "416":
+      synonyms:
+      - 138th street grand concourse
+      - mott haven
+      - 138th street mott haven
+    "418":
+      synonyms:
+      - fulton street broadway nassau street lexington avenue  line
+      - fulton street 4 and 5 trains
+      - fulton street 5 train
+      - fulton street 4 train
+      - fulton street lexington avenue line
+    "419":
+      synonyms:
+      - wall street broadway
+      - wall street lex line
+      - wall street lexington avenue line
+      - wall and broadway
+      - wall street 5 train
+      - wall street 4 train
+      - wall street 4 and 5 trains
+    419,230:
+      synonyms:
+      - wall street
+    "420":
+      synonyms:
+      - bowling green
+    "423":
+      synonyms:
+      - borough hall lexington avenue line
+      - borough hall 5 train
+      - borough hall 4 train
+      - borough hall 4 and 5 trains
+      - borough hall eastern parkway line
+    "501":
+      synonyms:
+      - eastchester dyre avenue
+      - eastchester
+      - dyre avenue
+    "502":
+      synonyms:
+      - baychester avenue
+    "503":
+      synonyms:
+      - gun hill road seymour avenue
+      - gun hill road 5 train
+      - gun hill road dyre avenue line
+    503,208:
+      synonyms:
+      - gun hill road
+    "504":
+      synonyms:
+      - pelham parkway esplanade
+      - pelham parkway 5 train
+      - pelham parkway dyre avenue line
+    504,211:
+      synonyms:
+      - pelham parkway
+    "505":
+      synonyms:
+      - morris park
+    "601":
+      synonyms:
+      - pelham bay park
+    "602":
+      synonyms:
+      - buhre avenue
+    "603":
+      synonyms:
+      - middletown road
+    "604":
+      synonyms:
+      - westchester square east tremont avenue
+      - westchester square
+    "606":
+      synonyms:
+      - zerega avenue
+    "607":
+      synonyms:
+      - castle hill avenue
+    "608":
+      synonyms:
+      - parkchester
+    "609":
+      synonyms:
+      - saint lawrence avenue
+    "610":
+      synonyms:
+      - morrison avenue sound view
+    "611":
+      synonyms:
+      - elder avenue
+    "612":
+      synonyms:
+      - whitlock avenue
+    "613":
+      synonyms:
+      - hunts point avenue
+    "614":
+      synonyms:
+      - longwood avenue
+    "615":
+      synonyms:
+      - east 149th street
+    "616":
+      synonyms:
+      - east 143rd street saint mary's street
+    "617":
+      synonyms:
+      - cypress avenue
+    "618":
+      synonyms:
+      - brook avenue
+    "619":
+      synonyms:
+      - 3rd avenue 138th street
+    "621":
       synonyms:
       - 125th street lexington avenue
       - 125th street 6 train
@@ -374,6 +730,304 @@ synonym:
       - 125th street 4 5 and 6 trains
       - 125th and lexington
       - 125th and lex
+    "622":
+      synonyms:
+      - 116th street lexington avenue
+      - 116th street 6 train
+      - 116th and lex
+      - 116th and lexington
+    "623":
+      synonyms:
+      - 110th street
+    "624":
+      synonyms:
+      - 103rd street lexington avenue
+      - 103rd street 6 train
+      - 103rd and lex
+      - 103rd and lexington
+    "625":
+      synonyms:
+      - 96th street lexington avenue
+      - 96th street 6 train
+      - 96th and lexington
+      - 96th and lex
+    "626":
+      synonyms:
+      - 86th street lexington avenue
+      - 86th street 6 train
+      - 86th street 5 train
+      - 86th street 4 train
+      - 86th street 4 5 and 6 trains
+      - 86th and lexington
+      - 86th and lex
+    "627":
+      synonyms:
+      - 77th street lexington avenue
+      - 77th street 6 train
+      - 77th and lexington
+      - 77th and lex
+      - 77th street manhattan
+    "628":
+      synonyms:
+      - 68th street hunter college
+    "629":
+      synonyms:
+      - 59th street lexington avenue
+      - 59th and lexington
+      - 59th street 6 train
+      - 59th street 5 train
+      - 59th street 4 train
+      - 59th street 4 5 and 6 trains
+      - 59th and lex
+    "630":
+      synonyms:
+      - 51st street
+    "631":
+      synonyms:
+      - grand central 42nd street lexington avenue line
+      - grand central lexington avenue line
+      - grand central 42nd street lex line
+      - 42nd street 4 5 and 6 trains
+      - grand central 4 5 and 6 trains
+      - grand central 42nd street 4 5 and 6 trains
+    "632":
+      synonyms:
+      - 33rd street
+      - 33rd street 6 train
+      - 33rd and park
+      - 33rd street park avenue south
+    "633":
+      synonyms:
+      - 28th street park avenue south
+      - 28th street 6 train
+      - 28th street lexington avenue line
+      - 28th and park
+    "634":
+      synonyms:
+      - 23rd street park avenue south
+      - 23rd street 6 train
+      - 23rd street lex avenue line
+      - 23rd street lexington avenue line
+      - 23rd and park
+    "635":
+      synonyms:
+      - 14th street union square lexington avenue line
+      - union square 4 5 6 trains
+      - 14th street union square 6 train
+      - 14th street union square 5 train
+      - 14th street union square 4 train
+      - union square 4 5 and 6 trains
+      - 14th street union square 4 5 and 6 trains
+      - union square lexington avenue line
+    "636":
+      synonyms:
+      - astor place
+    "637":
+      synonyms:
+      - bleecker street
+    "638":
+      synonyms:
+      - spring street lafayette street
+      - spring street lex line
+      - spring street lexington avenue line
+      - spring street 6 train
+      - spring and lafayette
+    "639":
+      synonyms:
+      - canal street lafayette street
+      - canal street 6 train
+      - canal street lex line
+      - canal street lexington avenue line
+      - canal and lafayette
+    "640":
+      synonyms:
+      - brooklyn bridge city hall
+    "701":
+      synonyms:
+      - flushing main street
+      - main street
+      - flushing
+    "702":
+      synonyms:
+      - mets willets point
+      - willets point boulevard
+      - shea stadium
+    "705":
+      synonyms:
+      - 111th street roosevelt avenue
+      - 111th street flushing line
+      - 111th street 7 train
+      - 111th and roosevelt
+    "706":
+      synonyms:
+      - 103rd street corona plaza
+      - 103rd and roosevelt
+      - 103rd street 7 train
+      - 103rd street queens
+    "707":
+      synonyms:
+      - junction boulevard
+    "708":
+      synonyms:
+      - 90th street elmhurst avenue
+    "709":
+      synonyms:
+      - 82nd street jackson heights
+    "710":
+      synonyms:
+      - 74th street broadway
+    "711":
+      synonyms:
+      - 69th street
+    "712":
+      synonyms:
+      - woodside 61st street
+      - 61st street woodside
+    "713":
+      synonyms:
+      - 52nd street
+    "714":
+      synonyms:
+      - 46th street bliss street
+      - 46th street queens boulevard
+      - 46th street 7 train
+    "715":
+      synonyms:
+      - 40th street lowery street
+      - 40th street
+    "716":
+      synonyms:
+      - 33rd street rawson street
+      - 33rd street flushing line
+      - 33rd street 7 train
+      - 33rd street queens
+    "718":
+      synonyms:
+      - queensboro plaza flushing line
+      - queensboro plaza 7 train
+      - queensboro plaza IRT
+    "719":
+      synonyms:
+      - court square flushing line
+      - court square 7 train
+    "720":
+      synonyms:
+      - hunters point avenue
+    "721":
+      synonyms:
+      - vernon boulevard jackson avenue
+      - vernon and jackson
+      - vernon jackson avenues
+    "723":
+      synonyms:
+      - grand central 42nd street flushing line
+      - grand central flushing line
+      - grand central 7 train
+      - grand central 42nd street 7 train
+    "724":
+      synonyms:
+      - 5th avenue
+      - 5th avenue 7 train
+      - 5th avenue bryant park
+    "725":
+      synonyms:
+      - times square 42nd street flushing line
+      - times square 7 train
+      - times square 42nd street 7 train
+    "726":
+      synonyms:
+      - 34th street hudson yards
+      - 34th street 7 train
+      - 34th street 11th avenue
+      - 34th and 11th
+      - hudson yards
+    "901":
+      synonyms:
+      - grand central 42nd street 42nd street shuttle
+      - grand central 42nd street S train
+      - grand central shuttle
+      - grand central 42nd street shuffle platform
+    901,723,631:
+      synonyms:
+      - grand central 42nd street
+      - grand central
+      - 42nd and park
+      - 42nd and lex
+      - 42nd street and lexington avenue
+    "902":
+      synonyms:
+      - times square 42nd street 42nd street shuttle
+      - times square 42nd street S train
+      - times square shuttle platform
+      - times square 42nd street shuttle platform
+    A02:
+      synonyms:
+      - inwood 207th street
+      - inwood
+    A03:
+      synonyms:
+      - dyckman street broadway
+      - dikeman street broadway
+      - dyckman 200th streets
+      - dyckman street 200th street
+      - dyckman street A train
+      - dyckman street IND
+      - dyckman street 8th avenue line
+    A05:
+      synonyms:
+      - 190th street
+    A06:
+      synonyms:
+      - 181st street fort washington avenue
+      - 181st street 8th avenue line
+      - 181st and fort washington
+      - 181st and fort wash
+      - 181st street A train
+      - 181st street IND
+    A06,111:
+      synonyms:
+      - 181st street
+    A07:
+      synonyms:
+      - 175th street
+    A09:
+      synonyms:
+      - 168th street 8th avenue line
+      - 168th street C train
+      - 168th street A train
+      - 168th street A and C trains
+      - 168th street IND
+    A09,112:
+      synonyms:
+      - 168th street
+      - 168th and broadway
+      - 168th street washington heights
+    A10:
+      synonyms:
+      - 163rd street amsterdam avenue
+    A11:
+      synonyms:
+      - 155th street saint nicholas avenue
+      - 155th street 8th avenue line
+      - 155th street C train
+      - 155th and saint nicholas
+      - 155th and saint nick
+    A12:
+      synonyms:
+      - 145th street saint nicholas avenue upper level
+      - 145th street saint nicholas avenue 8th avenue line
+      - 145th street saint nicholas avenue C train
+      - 145th street saint nicholas avenue A train
+      - 145th street saint nicholas avenue A and C trains
+      - 145th and saint nick upper level
+    A14:
+      synonyms:
+      - 135th street saint nicholas avenue
+      - 135th street C train
+      - 135th street B train
+      - 135th street B and C trains
+      - 135th and saint nicholas
+      - 135th and saint nick
     A15:
       synonyms:
       - 125th street saint nicholas avenue
@@ -384,87 +1038,110 @@ synonym:
       - 125th street A B C and D trains
       - 125th and saint nicholas
       - 125th and saint nick
-    '224':
+    A16:
       synonyms:
-      - 135th street lenox avenue
-      - 135th street 3 train
-      - 135th street 2 train
-      - 135th street 2 and 3 trains
-      - 135th and malcolm x
-      - 135th and lenox
-    A14:
+      - 116th street central park west
+      - 116th street C train
+      - 116th street B train
+      - 116th street B and C trains
+      - 116th and CPW
+      - 116th and central park west
+    A17:
       synonyms:
-      - 135th street saint nicholas avenue
-      - 135th street C train
-      - 135th street B train
-      - 135th street B and C trains
-      - 135th and saint nicholas
-      - 135th and saint nick
-    '115':
+      - cathedral parkway 110th street frederick douglass boulevard
+      - cathedral parkway 110th street C train
+      - cathedral parkway 110th street B train
+      - cathedral parkway 110th street B and C trains
+      - 110th street B and C trains
+      - cathedral parkway B and C trains
+      - cathedral parkway and frederick douglass
+      - 110th street and frederick douglass
+    A18:
       synonyms:
-      - 137th street city college
-    '416':
+      - 103rd street central park west
+      - 103rd street 8th avenue line
+      - 103rd street C train
+      - 103rd street B train
+      - 103rd and CPW
+      - 103rd and central park west
+      - 103rd street B and C trains
+    A19:
       synonyms:
-      - 138th street grand concourse
-      - mott haven
-      - 138th street mott haven
-    '114':
+      - 96th street central park west
+      - 96th street A train
+      - 96th and CPW
+      - 96th and central park west
+      - 96th street C train
+      - 96th street B train
+      - 96th street B and C trains
+    A20:
       synonyms:
-      - 145th street broadway
-      - 145th street broadway 7th avenue line
-      - 145th street 1 train
-      - 145th and broadway
-    '302':
+      - 86th street central park west
+      - 86th street A train
+      - 86th street C train
+      - 86th street B train
+      - 86th street B and C trains
+      - 86th and CPW
+      - 86th and central park west
+    A21:
       synonyms:
-      - 145th street lenox avenue
-      - 145th street 3 train
-      - 145th street 2 train
-      - 145th street 2 and 3 trains
-      - 145th and malcolm x
-      - 145th and lenox
-    D13:
+      - 81st street museum of natural history
+    A22:
       synonyms:
-      - 145th street saint nicholas avenue lower level
-      - 145th street saint nicholas avenue concourse line
-      - 145th street saint nicholas avenue B and D trains
-      - 145th street saint nicholas avenue D train
-      - 145th street saint nicholas avenue B train
-      - 145th and saint nick lower level
-    A12:
+      - 72nd street central park west
+      - 72nd street A train
+      - 72nd street C train
+      - 72nd street B train
+      - 72nd street B and C trains
+      - 72nd and CPW
+      - 72nd and central park west
+    A24:
       synonyms:
-      - 145th street saint nicholas avenue upper level
-      - 145th street saint nicholas avenue 8th avenue line
-      - 145th street saint nicholas avenue C train
-      - 145th street saint nicholas avenue A train
-      - 145th street saint nicholas avenue A and C trains
-      - 145th and saint nick upper level
-    '222':
+      - 59th street columbus circle 8th avenue line
+      - columbus circle A B C and D trains
+      - 59th street columbus circle D train
+      - 59th street columbus circle C train
+      - 59th street columbus circle B train
+      - 59th street columbus circle A train
+      - 59th street columbus circle IND
+      - 59th street columbus circle A B C and D trains
+      - columbus circle 8th avenue line
+    A24,125:
       synonyms:
-      - 149th street grand concourse lower level
-      - 149th street grand concourse 5 train
-      - 149th street grand concourse 2 train
-      - 149th street grand concourse 2 and 5 trains
-      - 149th street grand concourse white plains road line
-    '415':
+      - 59th street columbus circle
+      - columbus circle
+    A25:
       synonyms:
-      - 149th street grand concourse upper level
-      - 149th street grand concourse 4 train
-      - 149th street grand concourse jerome avenue line
-    D19:
+      - 50th street 8th avenue
+      - 50th street A train
+      - 50th street E train
+      - 50th street C train
+      - 50th street C and E trains
+      - 50th and 8th
+      - 50th street IND
+    A27:
       synonyms:
-      - 14th street 6th avenue
-      - 14th street M train
-      - 14th street F train
-      - 14th street F and M trains
-      - 14th and 6th
-    '132':
+      - 42nd street port authority bus terminal
+      - port authority
+    A28:
       synonyms:
-      - 14th street 7th avenue
-      - 14th street 3 train
-      - 14th street 2 train
-      - 14th street 1 train
-      - 14th street 1 2 and 3 trains
-      - 14th and 7th
+      - 34th street penn station 8th avenue
+      - 34th street penn station E train
+      - 34th street penn station C train
+      - 34th street penn station A train
+      - 34th street penn station A C and E trains
+      - 34th street 8th avenue
+      - 34th street penn station IND
+      - penn station IND
+      - 34th and 8th
+    A30:
+      synonyms:
+      - 23rd street 8th avenue
+      - 23rd street A train
+      - 23rd street E train
+      - 23rd street C train
+      - 23rd street C and E trains
+      - 23rd and 8th
     A31:
       synonyms:
       - 14th street 8th avenue
@@ -473,55 +1150,310 @@ synonym:
       - 14th street A train
       - 14th street A C and E trains
       - 14th and 8th
-    R20:
+    A32:
       synonyms:
-      - 14th street union square broadway line
-      - 14th street union square W train
-      - 14th street union square R train
-      - 14th street union square Q train
-      - 14th street union square N train
-      - union square N Q R and W trains
-      - 14th street union square N Q R and W trains
-      - union square broadway line
-    L03:
+      - west 4th street washington square upper level
+      - west 4th street washington square E train
+      - west 4th street washington square C train
+      - west 4th street washington square A train
+      - west 4th street washington square A C and E trains
+      - west 4th street washington square 8th avenue line
+      - west 4th street 8th avenue line
+      - west 4th street upper level
+    A33:
       synonyms:
-      - 14th street union square canarsie line
-      - union square L train
-      - 14th street union square L train
-      - union square canarsie line
-    '635':
+      - spring street 6th avenue
+      - spring and 6th
+      - spring street 8th avenue line
+      - spring street E train
+      - spring street C train
+      - spring street C and E trains
+    A33,638:
       synonyms:
-      - 14th street union square lexington avenue line
-      - union square 4 5 6 trains
-      - 14th street union square 6 train
-      - 14th street union square 5 train
-      - 14th street union square 4 train
-      - union square 4 5 and 6 trains
-      - 14th street union square 4 5 and 6 trains
-      - union square lexington avenue line
-    D12:
+      - spring street
+    A34:
       synonyms:
-      - 155th street frederick douglass boulevard
-      - 155th street 8th avenue
-      - 155th street D train
-      - 155th street B train
-      - 155th street B and D trains
-      - 155th street concourse line
-      - 155th and frederick douglass
-      - 155th and 8th
-    A11:
+      - canal street 6th avenue
+      - canal street E train
+      - canal street C train
+      - canal street A train
+      - canal street A C and E trains
+      - canal street 8th avenue line
+      - canal and 6th
+    A34,Q01,R23,M20,639,135:
       synonyms:
-      - 155th street saint nicholas avenue
-      - 155th street 8th avenue line
-      - 155th street C train
-      - 155th and saint nicholas
-      - 155th and saint nick
-    '113':
+      - canal street
+    A36:
       synonyms:
-      - 157th street
-    F25:
+      - chambers street church street
+      - chambers street C train
+      - chambers street A train
+      - chambers street A and C trains
+      - chambers street IND
+      - chambers street 8th avenue line
+      - chambers and church
+    A38:
       synonyms:
-      - 15th street prospect park
+      - fulton street broadway nassau street 8th avenue line
+      - fulton street C train
+      - fulton street A train
+      - fulton street A and C trains
+      - fulton street 8th avenue line
+    A40:
+      synonyms:
+      - high street
+    A41:
+      synonyms:
+      - jay street metrotech fulton street and culver lines
+      - jay street metrotech F train
+      - jay street metrotech C train
+      - jay street metrotech A train
+      - jay street metrotech A C and F trains
+      - jay street metrotech culver line
+      - jay street metrotech fulton street line
+      - jay street borough hall
+    A42:
+      synonyms:
+      - hoyt schermerhorn streets
+      - hoyt skimmerhorn streets
+      - hoyt skimmerhorn
+      - hoyt sermerhorn streets
+      - hoyt sermerhorn
+      - hoyt skimerhorn
+      - hoyt skimerhorn streets
+      - hoyt schermerhorn
+    A43:
+      synonyms:
+      - lafayette avenue
+    A44:
+      synonyms:
+      - clinton washington avenues fulton street
+      - clinton washington avenues A train
+      - clinton washington avenues C train
+    A44,G35:
+      synonyms:
+      - clinton washington avenues
+    A45:
+      synonyms:
+      - franklin avenue fulton street
+      - franklin avenue fulton street line
+      - franklin avenue C train
+    A45,S01,239:
+      synonyms:
+      - franklin avenue
+    A46:
+      synonyms:
+      - nostrand avenue fulton street
+      - nordstrom avenue fulton street
+      - nostrand avenue C train
+      - nostrand avenue A train
+      - nostrand avenue A and C trains
+      - nostrand and fulton
+    A47:
+      synonyms:
+      - kingston throop avenues
+    A48:
+      synonyms:
+      - utica avenue
+    A49:
+      synonyms:
+      - ralph avenue
+    A50:
+      synonyms:
+      - rockaway avenue fulton street
+      - rockaway avenue C train
+    A50,253:
+      synonyms:
+      - rockaway avenue
+    A51:
+      synonyms:
+      - broadway junction fulton street line
+      - broadway junction IND
+      - broadway junction C train
+      - broadway junction A train
+      - broadway junction A and C trains
+      - broadway east new york
+    A52:
+      synonyms:
+      - liberty avenue
+    A53:
+      synonyms:
+      - van siclen avenue pitkin avenue
+      - van siclen avenue IND
+      - van siclen and pitkin
+      - van siclen avenue fulton street line
+      - van siclen avenue C train
+    A54:
+      synonyms:
+      - shepherd avenue
+    A55:
+      synonyms:
+      - euclid avenue
+    A57:
+      synonyms:
+      - grant avenue
+    A59:
+      synonyms:
+      - 80th street
+    A60:
+      synonyms:
+      - 88th street
+    A61:
+      synonyms:
+      - rockaway boulevard
+    A63:
+      synonyms:
+      - 104th street liberty avenue
+      - 104th street IND
+      - 104th street fulton street line
+      - 104th street A train
+      - 104th and liberty
+    A64:
+      synonyms:
+      - 111th street liberty avenue
+      - 111th street fulton street line
+      - 111th street A train
+      - 111th and liberty
+    A65:
+      synonyms:
+      - ozone park lefferts boulevard
+      - lefferts boulevard
+      - ozone park
+    B04:
+      synonyms:
+      - 21st street queensbridge
+      - 21st street 63rd street line
+      - 21st street F train
+    B06:
+      synonyms:
+      - roosevelt island
+    B08:
+      synonyms:
+      - lexington avenue 63rd street
+    B10:
+      synonyms:
+      - 57th street
+      - 57th street F train
+      - 57th street IND
+      - 57th street 6th avenue
+      - 57th and 6th
+    B12:
+      synonyms:
+      - 9th avenue
+    B13:
+      synonyms:
+      - fort hamilton parkway new utrecht avenue
+      - fort hamilton parkway D train
+      - fort hamilton parkway west end line
+    B14:
+      synonyms:
+      - 50th street new utrecht avenue
+      - 50th street D train
+      - 50th street west end line
+      - 50th street BMT
+      - 50th street brooklyn
+      - 50th and new utrecht
+    B15:
+      synonyms:
+      - 55th street
+    B16:
+      synonyms:
+      - 62nd street
+    B17:
+      synonyms:
+      - 71st street
+    B18:
+      synonyms:
+      - 79th street new utrecht avenue
+      - 79th street brooklyn
+      - 79th street west end line
+      - 79th street BMT
+      - 79th street D train
+      - 79th and new utrecht
+    B19:
+      synonyms:
+      - 18th avenue new utrecht avenue
+      - 18th avenue D train
+      - 18th avenue west end line
+    B20:
+      synonyms:
+      - 20th avenue new utrecht avenue
+      - 20th avenue D train
+      - 20th avenue west end line
+    B21:
+      synonyms:
+      - bay parkway 86th street
+      - bay parkway D train
+      - bay parkway west end line
+    B21,N07,F32:
+      synonyms:
+      - bay parkway
+    B22:
+      synonyms:
+      - 25th avenue
+    B23:
+      synonyms:
+      - bay 50th street
+    D01:
+      synonyms:
+      - norwood 205th street
+      - 205th street
+      - norwood
+    D03:
+      synonyms:
+      - bedford park boulevard
+    D04:
+      synonyms:
+      - kingsbridge road grand concourse
+      - kingsbridge road D train
+      - kingsbridge road B train
+      - kingsbridge road B and D trains
+      - kingsbridge and concourse
+    D04,406:
+      synonyms:
+      - kingsbridge road
+    D05:
+      synonyms:
+      - fordham road grand concourse
+      - fordham road D train
+      - fordham road B train
+      - fordham road B and D trains
+      - fordham and concourse
+    D05,407:
+      synonyms:
+      - fordham road
+    D06:
+      synonyms:
+      - 182nd 183rd streets
+    D07:
+      synonyms:
+      - tremont avenue
+    D08:
+      synonyms:
+      - 174th 175th streets
+      - 174th and 175th
+      - 174th 175th
+    D09:
+      synonyms:
+      - 170th street grand concourse
+      - 170th street D train
+      - 170th street B train
+      - 170th street B and D trains
+      - 170th and concourse
+    D09,412:
+      synonyms:
+      - 170th street
+    D10:
+      synonyms:
+      - 167th street grand concourse
+      - 167th street D train
+      - 167th street B train
+      - 167th street B and D trains
+      - 167th street concourse line
+      - 167th and concourse
+    D10,413:
+      synonyms:
+      - 167th street
     D11:
       synonyms:
       - 161st street yankee stadium concourse line
@@ -532,244 +1464,51 @@ synonym:
       - yankee stadium B and D trains
       - 161st street yankee stadium B and D trains
       - yankee stadium concourse line
-    '414':
+    D11,414:
       synonyms:
-      - 161st street yankee stadium jerome avenue line
-      - 161st street yankee stadium IRT
-      - yankee stadium IRT
-      - yankee stadium 4 train
-      - 161st street yankee stadium 4 train
-      - yankee stadium jerome avenue line
-    A10:
+      - 161th street yankee stadium
+      - yankee stadium
+      - 161th street
+    D12:
       synonyms:
-      - 163rd street amsterdam avenue
-    D10:
+      - 155th street frederick douglass boulevard
+      - 155th street 8th avenue
+      - 155th street D train
+      - 155th street B train
+      - 155th street B and D trains
+      - 155th street concourse line
+      - 155th and frederick douglass
+      - 155th and 8th
+    D12,A11:
       synonyms:
-      - 167th street grand concourse
-      - 167th street D train
-      - 167th street B train
-      - 167th street B and D trains
-      - 167th street concourse line
-      - 167th and concourse
-    '413':
+      - 155th street
+    D13:
       synonyms:
-      - 167th street river avenue
-      - 167th street jerome avenue line
-      - 167th street 4 train
-      - 167th and river
-    A09:
+      - 145th street saint nicholas avenue lower level
+      - 145th street saint nicholas avenue concourse line
+      - 145th street saint nicholas avenue B and D trains
+      - 145th street saint nicholas avenue D train
+      - 145th street saint nicholas avenue B train
+      - 145th and saint nick lower level
+    D14:
       synonyms:
-      - 168th street 8th avenue line
-      - 168th street C train
-      - 168th street A train
-      - 168th street A and C trains
-      - 168th street IND
-    '112':
+      - 7th avenue 53rd street
+      - 7th avenue 8th avenue line
+      - 7th avenue 6th avenue line
+      - 7th avenue queens boulevard line
+      - 7th avenue IND
+    D14,F24:
       synonyms:
-      - 168th street broadway 7th avenue line
-      - 168th street IRT
-      - 168th street 7th avenue line
-      - 168th street 1 train
-    F02:
+      - 7th avenue
+    D15:
       synonyms:
-      - 169th street
-    D09:
+      - 47th 50th streets rockefeller center
+      - rock center
+      - rockefeller center
+    D16:
       synonyms:
-      - 170th street grand concourse
-      - 170th street D train
-      - 170th street B train
-      - 170th street B and D trains
-      - 170th and concourse
-    '412':
-      synonyms:
-      - 170th street jerome avenue
-      - 170th street 4 train
-      - 170th and jerome
-    D08:
-      synonyms:
-      - 174th 175th streets
-      - 174th and 175th
-      - 174th 175th
-    '215':
-      synonyms:
-      - 174th street
-    A07:
-      synonyms:
-      - 175th street
-    '410':
-      synonyms:
-      - 176th street
-    A06:
-      synonyms:
-      - 181st street fort washington avenue
-      - 181st street 8th avenue line
-      - 181st and fort washington
-      - 181st and fort wash
-      - 181st street A train
-      - 181st street IND
-    '111':
-      synonyms:
-      - 181st street saint nicholas avenue
-      - 181st street broadway 7th avenue line
-      - 181st and saint nick
-      - 181st and saint nicholas
-      - 181st street IRT
-      - 181st street 1 train
-    D06:
-      synonyms:
-      - 182nd 183rd streets
-    '408':
-      synonyms:
-      - 183rd street
-    N05:
-      synonyms:
-      - 18th avenue 64th street
-      - 18th avenue N train
-      - 18th avenue sea beach line
-    F30:
-      synonyms:
-      - 18th avenue mcdonald avenue
-      - 18th avenue F train
-      - 18th avenue culver line
-    B19:
-      synonyms:
-      - 18th avenue new utrecht avenue
-      - 18th avenue D train
-      - 18th avenue west end line
-    '131':
-      synonyms:
-      - 18th street
-    A05:
-      synonyms:
-      - 190th street
-    '110':
-      synonyms:
-      - 191st street
-    L06:
-      synonyms:
-      - 1st avenue
-    '108':
-      synonyms:
-      - 207th street
-    N06:
-      synonyms:
-      - 20th avenue 64th street
-      - 20th avenue N train
-      - 20th avenue sea beach line
-    B20:
-      synonyms:
-      - 20th avenue new utrecht avenue
-      - 20th avenue D train
-      - 20th avenue west end line
-    '107':
-      synonyms:
-      - 215th street
-    '207':
-      synonyms:
-      - 219th street
-    G24:
-      synonyms:
-      - 21st street
-      - 21st street G train
-      - 21st street crosstown line
-      - 21st street van alst
-    B04:
-      synonyms:
-      - 21st street queensbridge
-      - 21st street 63rd street line
-      - 21st street F train
-    '206':
-      synonyms:
-      - 225th street
-    '104':
-      synonyms:
-      - 231st street
-    '205':
-      synonyms:
-      - 233rd street
-    '103':
-      synonyms:
-      - 238th street
-    D18:
-      synonyms:
-      - 23rd street 6th avenue
-      - 23rd street M train
-      - 23rd street F train
-      - 23rd street F and M trains
-      - 23rd and 6th
-    '130':
-      synonyms:
-      - 23rd street 7th avenue
-      - 23rd street 1 train
-      - 23rd and 7th
-    A30:
-      synonyms:
-      - 23rd street 8th avenue
-      - 23rd street A train
-      - 23rd street E train
-      - 23rd street C train
-      - 23rd street C and E trains
-      - 23rd and 8th
-    R19:
-      synonyms:
-      - 23rd street broadway
-      - 23rd street Q train
-      - 23rd street N train
-      - 23rd street W train
-      - 23rd street R train
-      - 23rd street R and W trains
-      - 23rd and broadway
-    '634':
-      synonyms:
-      - 23rd street park avenue south
-      - 23rd street 6 train
-      - 23rd street lex avenue line
-      - 23rd street lexington avenue line
-      - 23rd and park
-    B22:
-      synonyms:
-      - 25th avenue
-    R35:
-      synonyms:
-      - 25th street
-    '129':
-      synonyms:
-      - 28th street 7th avenue
-      - 28th street 1 train
-      - 28th and 7th
-    R18:
-      synonyms:
-      - 28th street broadway
-      - 28th street W train
-      - 28th street R train
-      - 28th street Q train
-      - 28th street N train
-      - 28th street R and W trains
-      - 28th and broadway
-    '633':
-      synonyms:
-      - 28th street park avenue south
-      - 28th street 6 train
-      - 28th street lexington avenue line
-      - 28th and park
-    F14:
-      synonyms:
-      - 2nd avenue
-    R04:
-      synonyms:
-      - 30th avenue
-    '632':
-      synonyms:
-      - 33rd street
-      - 33rd street 6 train
-      - 33rd and park
-      - 33rd street park avenue south
-    '716':
-      synonyms:
-      - 33rd street rawson street
-      - 33rd street flushing line
-      - 33rd street 7 train
-      - 33rd street queens
+      - 42nd street bryant park
+      - bryant park
     D17:
       synonyms:
       - 34th street herald square 6th avenue line
@@ -784,6 +1523,919 @@ synonym:
       - herald square lower level
       - 34th street herald square lower level
       - herald square 6th avenue line
+    D17,R17:
+      synonyms:
+      - 34th street herald square
+      - 34th and broadway
+      - 34th and 6th
+      - herald square
+    D18:
+      synonyms:
+      - 23rd street 6th avenue
+      - 23rd street M train
+      - 23rd street F train
+      - 23rd street F and M trains
+      - 23rd and 6th
+    D18,130,A30,R19,634:
+      synonyms:
+      - 23rd street
+    D19:
+      synonyms:
+      - 14th street 6th avenue
+      - 14th street M train
+      - 14th street F train
+      - 14th street F and M trains
+      - 14th and 6th
+    D19,132,A31,R20,L03,635:
+      synonyms:
+      - 14th street
+    D20:
+      synonyms:
+      - west 4th street washington square lower level
+      - west 4th street washington square M train
+      - west 4th street washington square F train
+      - west 4th street washington square D train
+      - west 4th street washington square B train
+      - west 4th street washington square B D F and M trains
+      - west 4th street washington square 6th avenue line
+      - west 4th street 6th avenue line
+      - west 4th street lower level
+    D20,A32:
+      synonyms:
+      - west 4th street
+      - west 4th street washington square
+    D21:
+      synonyms:
+      - broadway lafayette street
+    D21,G30:
+      synonyms:
+      - broadway
+    D22:
+      synonyms:
+      - grand street chrystie street
+      - grand street manhattan bridge
+      - grand street sixth avenue line
+      - grand and chrystie
+      - grand street D train
+      - grand street B train
+      - grand street B and D trains
+    D24:
+      synonyms:
+      - atlantic avenue barclays center brighton line
+      - atlantic avenue barclays center Q train
+      - atlantic avenue barclays center B train
+      - atlantic avenue B and Q trains
+      - barclays center B and Q trains
+      - atlantic avenue barclays center B and Q trains
+      - barclays center brighton line
+    D25:
+      synonyms:
+      - 7th avenue flatbush avenue
+      - 7th avenue brighton line
+      - 7th avenue Q train
+      - 7th avenue B train
+      - 7th avenue B and Q trains
+      - 7th and flatbush
+    D26:
+      synonyms:
+      - prospect park
+    D27:
+      synonyms:
+      - parkside avenue
+    D28:
+      synonyms:
+      - church avenue east 18th street
+      - church avenue Q train
+      - church avenue brighton line
+    D28,F27,244:
+      synonyms:
+      - church avenue
+    D29:
+      synonyms:
+      - beverley road east 16th street
+      - beverley road BMT
+      - beverley road Q train
+      - beverley road brighton line
+    D29,245:
+      synonyms:
+      - beverley road
+    D30:
+      synonyms:
+      - cortelyou road
+    D31:
+      synonyms:
+      - newkirk plaza
+    D32:
+      synonyms:
+      - avenue h
+    D33:
+      synonyms:
+      - avenue j
+    D34:
+      synonyms:
+      - avenue m
+    D35:
+      synonyms:
+      - kings highway east 16th street
+      - kings highway Q train
+      - kings highway brighton line
+    D35,F35,N08:
+      synonyms:
+      - kings highway
+    D37:
+      synonyms:
+      - avenue u east 16th street
+      - avenue u Q train
+      - avenue u brighton line
+    D37,F36,N09:
+      synonyms:
+      - avenue u
+    D38:
+      synonyms:
+      - neck road
+    D39:
+      synonyms:
+      - sheepshead bay
+    D40:
+      synonyms:
+      - brighton beach
+    D41:
+      synonyms:
+      - ocean parkway
+    D42:
+      synonyms:
+      - west 8th street ny aquarium
+      - west 8th street
+      - ny aquarium
+    D43:
+      synonyms:
+      - coney island stillwell avenue
+    E01:
+      synonyms:
+      - world trade center
+      - WTC
+    F01:
+      synonyms:
+      - jamaica 179th street
+      - 179th street
+    F02:
+      synonyms:
+      - 169th street
+    F03:
+      synonyms:
+      - parsons boulevard
+    F04:
+      synonyms:
+      - sutphin boulevard
+      - sutphin boulevard F train
+    F05:
+      synonyms:
+      - briarwood van wyck boulevard
+      - briarwood
+    F06:
+      synonyms:
+      - kew gardens union turnpike
+    F07:
+      synonyms:
+      - 75th avenue
+    F09:
+      synonyms:
+      - court square 23rd street
+      - court square M train
+      - court square E train
+      - court square E and M trains
+      - court square queens boulevard line
+    F09,G22,719:
+      synonyms:
+      - court square
+    F11:
+      synonyms:
+      - lexington avenue 53rd street
+    F12:
+      synonyms:
+      - 5th avenue 53rd street
+    F14:
+      synonyms:
+      - 2nd avenue
+    F15:
+      synonyms:
+      - delancey street
+    F16:
+      synonyms:
+      - east broadway
+    F18:
+      synonyms:
+      - york street
+    F20:
+      synonyms:
+      - bergen street smith street
+      - bergen street IND
+      - bergen street culver line
+      - bergen street G train
+      - bergen street F train
+      - bergen street F and G trains
+    F21:
+      synonyms:
+      - carroll street
+    F22:
+      synonyms:
+      - smith 9th streets
+    F23:
+      synonyms:
+      - 4th avenue
+    F24:
+      synonyms:
+      - 7th avenue 9th street
+      - 7th avenue culver line
+      - 7th avenue G train
+      - 7th avenue F train
+      - 7th avenue F and G trains
+      - 7th avenue park slope
+      - 7th and 9th
+    F25:
+      synonyms:
+      - 15th street prospect park
+    F26:
+      synonyms:
+      - fort hamilton parkway prospect avenue
+      - fort hamilton parkway G train
+      - fort hamilton parkway F train
+      - fort hamilton parkway F and G trains
+      - fort hamilton parkway culver line
+    F27:
+      synonyms:
+      - church avenue mcdonald avenue
+      - church avenue G train
+      - church avenue F train
+      - church avenue F and G trains
+      - church avenue culver line
+    F29:
+      synonyms:
+      - ditmas avenue
+    F30:
+      synonyms:
+      - 18th avenue mcdonald avenue
+      - 18th avenue F train
+      - 18th avenue culver line
+    F31:
+      synonyms:
+      - avenue i
+    F32:
+      synonyms:
+      - bay parkway mcdonald avenue
+      - bay parkway F train
+      - bay parkway culver line
+    F33:
+      synonyms:
+      - avenue n
+    F34:
+      synonyms:
+      - avenue p
+    F35:
+      synonyms:
+      - kings highway mcdonald avenue
+      - kings highway F train
+      - kings highway culver line
+    F36:
+      synonyms:
+      - avenue u mcdonald avenue
+      - avenue u F train
+      - avenue u culver line
+    F38:
+      synonyms:
+      - avenue x
+    F39:
+      synonyms:
+      - neptune avenue
+    G05:
+      synonyms:
+      - jamaica center parsons archer
+      - jamaica center
+    G06:
+      synonyms:
+      - sutphin boulevard archer avenue JFK airport
+      - sutphin boulevard Z train
+      - sutphin boulevard J train
+      - sutphin boulevard E train
+      - sutphin boulevard E J and Z trains
+      - sutphin boulevard archer avenue
+    G07:
+      synonyms:
+      - jamaica van wyck
+    G08:
+      synonyms:
+      - forest hills 71st avenue
+      - forest hills continental
+      - 71st continental avenues
+      - continental avenue
+      - forest hills
+      - 71st avenue
+    G09:
+      synonyms:
+      - 67th avenue
+    G10:
+      synonyms:
+      - 63rd drive rego park
+    G11:
+      synonyms:
+      - woodhaven boulevard queens boulevard
+      - woodhaven boulevard R train
+      - woodhaven boulevard M train
+      - woodhaven boulevard M and R trains
+      - woodhaven boulevard IND
+    G12:
+      synonyms:
+      - grand avenue newtown
+      - grand avenue
+    G13:
+      synonyms:
+      - elmhurst avenue
+    G14:
+      synonyms:
+      - jackson heights roosevelt avenue
+    G15:
+      synonyms:
+      - 65th street
+    G16:
+      synonyms:
+      - northern boulevard
+    G18:
+      synonyms:
+      - 46th street broadway
+      - 46th street R train
+      - 46th street M train
+      - 46th street M and R trains
+    G19:
+      synonyms:
+      - steinway street
+    G20:
+      synonyms:
+      - 36th street northern boulevard
+      - 36th street queens
+    G21:
+      synonyms:
+      - queens plaza
+    G22:
+      synonyms:
+      - court square crosstown line
+      - court square G train
+    G24:
+      synonyms:
+      - 21st street
+      - 21st street G train
+      - 21st street crosstown line
+      - 21st street van alst
+    G26:
+      synonyms:
+      - greenpoint avenue
+    G28:
+      synonyms:
+      - nassau avenue
+    G29:
+      synonyms:
+      - metropolitan avenue
+      - metropolitan avenue union avenue
+    G30:
+      synonyms:
+      - broadway union avenue
+      - broadway williamsburg
+      - broadway IND
+      - broadway crosstown line
+      - broadway G train
+      - broadway brooklyn
+    G31:
+      synonyms:
+      - flushing avenue union avenue
+      - flushing avenue crosstown line
+      - flushing avenue G train
+      - flushing avenue IND
+      - flushing and union
+    G32:
+      synonyms:
+      - myrtle willoughby avenues
+    G33:
+      synonyms:
+      - bedford nostrand avenues
+      - bedford nordstrom avenues
+    G34:
+      synonyms:
+      - classon avenue
+    G35:
+      synonyms:
+      - clinton washington avenues lafayette avenue
+      - clinton washington avenues crosstown line
+      - clinton washington avenues G train
+    G36:
+      synonyms:
+      - fulton street lafayette avenue
+      - fulton street G train
+      - fulton street brooklyn
+      - fulton street crosstown line
+    H01:
+      synonyms:
+      - aqueduct racetrack
+    H02:
+      synonyms:
+      - aqueduct north conduit avenue
+      - aqueduct
+    H03:
+      synonyms:
+      - howard beach JFK airport
+      - howard beach
+    H04:
+      synonyms:
+      - broad channel
+    H06:
+      synonyms:
+      - beach 67th street
+    H07:
+      synonyms:
+      - beach 60th street
+    H08:
+      synonyms:
+      - beach 44th street
+    H09:
+      synonyms:
+      - beach 36th street
+    H10:
+      synonyms:
+      - beach 25th street
+    H11:
+      synonyms:
+      - far rockaway mott avenue
+      - mott avenue
+      - far rockaway
+    H12:
+      synonyms:
+      - beach 90th street
+    H13:
+      synonyms:
+      - beach 98th street
+    H14:
+      synonyms:
+      - beach 105th street
+    H15:
+      synonyms:
+      - rockaway park beach 116th street
+      - beach 116th street
+      - rockaway park
+    J12:
+      synonyms:
+      - 121st street
+    J13:
+      synonyms:
+      - 111th street jamaica avenue
+      - 111th street jamaica line
+      - 111th street J train
+      - 111th and jamaica
+    J13,A64,705:
+      synonyms:
+      - 111th street
+    J14:
+      synonyms:
+      - 104th street jamaica avenue
+      - 104th street BMT
+      - 104th street Z train
+      - 104th street J train
+      - 104th street J and Z trains
+      - 104th street jamaica line
+      - 104th and jamaica
+    J14,A63:
+      synonyms:
+      - 104th street
+    J15:
+      synonyms:
+      - woodhaven boulevard jamaica avenue
+      - woodhaven boulevard Z train
+      - woodhaven boulevard J train
+      - woodhaven boulevard J and Z trains
+      - woodhaven boulevard BMT
+      - woodhaven boulevard jamaica line
+      - woodhaven and jamaica
+    J15,G11:
+      synonyms:
+      - woodhaven boulevard
+    J16:
+      synonyms:
+      - 85th street forest parkway
+    J17:
+      synonyms:
+      - 75th street elderts lane
+      - 75th street
+    J19:
+      synonyms:
+      - cypress hills
+    J20:
+      synonyms:
+      - crescent street
+    J21:
+      synonyms:
+      - norwood avenue
+    J22:
+      synonyms:
+      - cleveland street
+    J23:
+      synonyms:
+      - van siclen avenue fulton street
+      - van siclen avenue BMT
+      - van siclen and fulton
+      - van siclen avenue J and Z trains
+      - van siclen avenue Z train
+      - van siclen avenue jamaica line
+      - van siclen avenue J train
+    J23,256,A53:
+      synonyms:
+      - van siclen avenue
+    J24:
+      synonyms:
+      - alabama avenue
+    J27:
+      synonyms:
+      - broadway junction jamaica line
+      - broadway junction Z train
+      - broadway junction J train
+      - broadway junction J and Z trains
+      - broadway junction eastern parkway
+    J28:
+      synonyms:
+      - chauncey street
+    J29:
+      synonyms:
+      - halsey street broadway
+      - halsey and broadway
+      - halsey street J train
+      - halsey street jamaica line
+    J29,L19:
+      synonyms:
+      - halsey street
+    J30:
+      synonyms:
+      - gates avenue
+    J31:
+      synonyms:
+      - kosciuszko street
+    L01:
+      synonyms:
+      - 8th avenue 14th street
+      - 8th avenue manhattan
+      - 8th avenue L train
+    L01,N02:
+      synonyms:
+      - 8th avenue
+    L02:
+      synonyms:
+      - 6th avenue
+    L03:
+      synonyms:
+      - 14th street union square canarsie line
+      - union square L train
+      - 14th street union square L train
+      - union square canarsie line
+    L05:
+      synonyms:
+      - 3rd avenue
+    L06:
+      synonyms:
+      - 1st avenue
+    L08:
+      synonyms:
+      - bedford avenue
+    L10:
+      synonyms:
+      - lorimer street metropolitan avenue
+      - lorimer street L train
+      - lorimer street canarsie line
+      - lorimer and metropolitan
+      - lorimer and metro
+      - lorimer and met
+    L11:
+      synonyms:
+      - graham avenue
+    L12:
+      synonyms:
+      - grand street bushwick avenue
+      - grand and bushwick
+      - grand street canarsie line
+      - grand street L train
+      - grand street brooklyn
+    L12,D22:
+      synonyms:
+      - grand street
+    L13:
+      synonyms:
+      - montrose avenue
+    L14:
+      synonyms:
+      - morgan avenue
+    L15:
+      synonyms:
+      - jefferson street
+    L16:
+      synonyms:
+      - dekalb avenue wyckoff avenue
+      - dekalb and wyckoff
+      - dekalb avenue canarsie line
+      - dekalb avenue L train
+    L17:
+      synonyms:
+      - myrtle wyckoff avenues canarsie line
+      - myrtle wyckoff avenues L train
+    L17,M08:
+      synonyms:
+      - myrtle wyckoff avenues
+    L19:
+      synonyms:
+      - halsey street wyckoff avenue
+      - halsey and wyckoff
+      - halsey street L train
+      - halsey street canarsie line
+    L20:
+      synonyms:
+      - wilson avenue
+    L21:
+      synonyms:
+      - bushwick avenue aberdeen street
+    L22:
+      synonyms:
+      - broadway junction canarsie line
+      - broadway junction L train
+    L22,A51,J27:
+      synonyms:
+      - broadway junction
+    L24:
+      synonyms:
+      - atlantic avenue
+      - atlantic avenue L train
+    L25:
+      synonyms:
+      - sutter avenue
+    L26:
+      synonyms:
+      - livonia avenue
+    L27:
+      synonyms:
+      - new lots avenue van sinderen avenue
+      - new lots avenue L train
+      - new lots avenue canarsie line
+    L28:
+      synonyms:
+      - east 105th street
+    L29:
+      synonyms:
+      - canarsie rockaway parkway
+      - rockaway parkway
+      - canarsie
+    M01:
+      synonyms:
+      - middle village metropolitan avenue
+      - middle village
+    M04:
+      synonyms:
+      - fresh pond road
+    M05:
+      synonyms:
+      - forest avenue
+    M06:
+      synonyms:
+      - seneca avenue
+    M08:
+      synonyms:
+      - myrtle wyckoff avenues myrtle avenue line
+      - myrtle wyckoff avenues M train
+    M09:
+      synonyms:
+      - knickerbocker avenue
+    M10:
+      synonyms:
+      - central avenue
+    M11:
+      synonyms:
+      - myrtle avenue
+      - myrtle and broadway
+      - myrtle avenue broadway
+    M12:
+      synonyms:
+      - flushing avenue broadway
+      - flushing avenue jamaica line
+      - flushing avenue M trains
+      - flushing avenue J train
+      - flushing avenue J and M trains
+      - flushing avenue BMT
+      - flushing and broadway
+    M12,G31:
+      synonyms:
+      - flushing avenue
+    M13:
+      synonyms:
+      - lorimer street broadway
+      - lorimer street M train
+      - lorimer street J train
+      - lorimer street J and M trains
+      - lorimer and broadway
+      - lorimer street jamaica line
+    M13,L10:
+      synonyms:
+      - lorimer street
+    M14:
+      synonyms:
+      - hewes street
+    M16:
+      synonyms:
+      - marcy avenue
+    M18:
+      synonyms:
+      - essex street
+    M19:
+      synonyms:
+      - bowery
+    M20:
+      synonyms:
+      - canal street centre street
+      - canal and centre
+      - canal street jamaica line
+      - canal street nassau street line
+      - canal street Z train
+      - canal street J train
+      - canal street J and Z trains
+    M21:
+      synonyms:
+      - chambers street centre street
+      - chambers street BMT
+      - chambers and centre
+      - chambers street Z train
+      - chambers street J train
+      - chambers street J and Z trains
+      - chambers street jamaica line
+      - chambers street nassau street line
+    M21,A36,137:
+      synonyms:
+      - chambers street
+    M22:
+      synonyms:
+      - fulton street broadway nassau street nassau street line
+      - fulton street Z train
+      - fulton street J train
+      - fulton street J and Z trains
+      - fulton street jamaica line
+      - fulton street nassau street line
+    M23:
+      synonyms:
+      - broad street
+    N02:
+      synonyms:
+      - 8th avenue 62nd street
+      - 8th avenue sea beach line
+      - 8th avenue N train
+      - 8th avenue sunset park
+      - 8th avenue brooklyn
+    N03:
+      synonyms:
+      - fort hamilton parkway 62nd street
+      - fort hamilton parkway N train
+      - fort hamilton parkway sea beach line
+    N03,B13,F26:
+      synonyms:
+      - fort hamilton parkway
+    N04:
+      synonyms:
+      - new utrecht avenue
+    N05:
+      synonyms:
+      - 18th avenue 64th street
+      - 18th avenue N train
+      - 18th avenue sea beach line
+    N05,F30,B19:
+      synonyms:
+      - 18th avenue
+    N06:
+      synonyms:
+      - 20th avenue 64th street
+      - 20th avenue N train
+      - 20th avenue sea beach line
+    N06,B20:
+      synonyms:
+      - 20th avenue
+    N07:
+      synonyms:
+      - bay parkway avenue o
+      - bay parkway N train
+      - bay parkway sea beach line
+    N08:
+      synonyms:
+      - kings highway west 7th street
+      - kings highway N train
+      - kings highway sea beach line
+    N09:
+      synonyms:
+      - avenue u west 7th street
+      - avenue u N train
+      - avenue u sea beach line
+    N10:
+      synonyms:
+      - 86th street west 7th street
+      - gravesend 86th street
+      - 86th street N train
+      - 86th street sea beach line
+      - 86th and west 7th
+    Q01:
+      synonyms:
+      - 'canal street broadway lower level '
+      - canal street Q train
+      - canal street N train
+      - canal street N and Q trains
+      - canal street via bridge
+      - canal street bridge line
+      - canal street manhattan bridge
+    Q03:
+      synonyms:
+      - 72nd street 2nd avenue
+      - 72nd street Q train
+      - 72nd and 2nd
+    Q03,123,A22:
+      synonyms:
+      - 72nd street
+    Q04:
+      synonyms:
+      - 86th street 2nd avenue
+      - 86th street Q train
+      - 86th and 2nd
+    Q04,R44,121,A20,626,N10:
+      synonyms:
+      - 86th street
+    Q05:
+      synonyms:
+      - 96th street 2nd avenue
+      - 96th street Q train
+      - 96th and 2nd
+    Q05,120,A19,625:
+      synonyms:
+      - 96th street
+    R01:
+      synonyms:
+      - astoria ditmars boulevard
+      - ditmars boulevard
+    R03:
+      synonyms:
+      - astoria boulevard
+    R04:
+      synonyms:
+      - 30th avenue
+    R05:
+      synonyms:
+      - broadway 31st street
+      - broadway BMT
+      - broadway astoria line
+      - broadway W train
+      - broadway N train
+      - broadway N and W trains
+      - broadway astoria
+      - broadway queens
+    R06:
+      synonyms:
+      - 36th avenue
+    R08:
+      synonyms:
+      - 39th avenue
+    R09:
+      synonyms:
+      - queensboro plaza astoria line
+      - queensboro plaza W train
+      - queensboro plaza N train
+      - queensboro plaza N and W trains
+      - queensboro plaza BMT
+    R09,718:
+      synonyms:
+      - queensboro plaza
+    R11:
+      synonyms:
+      - lexington avenue 59th street
+    R13:
+      synonyms:
+      - 5th avenue 59th street
+    R14:
+      synonyms:
+      - 57th street 7th avenue
+      - 57 street W train
+      - 57 street R train
+      - 57 street Q train
+      - 57 street N train
+      - 57 street N Q R and W trains
+      - 57th street broadway line
+      - 57th street BMT
+      - 57th street midtown
+      - 57th and 7th
+    R15:
+      synonyms:
+      - 49th street
+    R16:
+      synonyms:
+      - times square 42nd street broadway line
+      - times square 42nd street W train
+      - times square 42nd street R train
+      - times square 42nd street Q train
+      - times square 42nd street N train
+      - times square N Q R and W trains
+      - times square 42nd street N Q R and W trains
     R17:
       synonyms:
       - 34th street herald square broadway line
@@ -797,740 +2449,46 @@ synonym:
       - herald square upper level
       - 34th street herald square upper level
       - herald square broadway line
-    '726':
-      synonyms:
-      - 34th street hudson yards
-      - 34th street 7 train
-      - 34th street 11th avenue
-      - 34th and 11th
-      - hudson yards
-    '128':
-      synonyms:
-      - 34th street penn station 7th avenue
-      - 34th street penn station 3 train
-      - 34th street penn station 2 train
-      - 34th street penn station 1 train
-      - 34th street penn station 1 2 and 3 trains
-      - 34th street 7th avenue
-      - 34th street penn station IRT
-      - penn station IRT
-      - 34th and 7th
-    A28:
-      synonyms:
-      - 34th street penn station 8th avenue
-      - 34th street penn station E train
-      - 34th street penn station C train
-      - 34th street penn station A train
-      - 34th street penn station A C and E trains
-      - 34th street 8th avenue
-      - 34th street penn station IND
-      - penn station IND
-      - 34th and 8th
-    R06:
-      synonyms:
-      - 36th avenue
-    R36:
-      synonyms:
-      - 36th street 4th avenue
-      - 36th street D train
-      - 36th street N train
-      - 36th street brooklyn
-    G20:
-      synonyms:
-      - 36th street northern boulevard
-      - 36th street queens
-    R08:
-      synonyms:
-      - 39th avenue
-    L05:
-      synonyms:
-      - 3rd avenue
-    '619':
-      synonyms:
-      - 3rd avenue 138th street
-    '221':
-      synonyms:
-      - 3rd avenue 149th street
-    '715':
-      synonyms:
-      - 40th street lowery street
-      - 40th street
-    D16:
-      synonyms:
-      - 42nd street bryant park
-      - bryant park
-    A27:
-      synonyms:
-      - 42nd street port authority bus terminal
-      - port authority
-    R39:
-      synonyms:
-      - 45th street
-    '714':
-      synonyms:
-      - 46th street bliss street
-      - 46th street queens boulevard
-      - 46th street 7 train
-    G18:
-      synonyms:
-      - 46th street broadway
-      - 46th street R train
-      - 46th street M train
-      - 46th street M and R trains
-    D15:
-      synonyms:
-      - 47th 50th streets rockefeller center
-      - rock center
-      - rockefeller center
-    R15:
-      synonyms:
-      - 49th street
-    F23:
-      synonyms:
-      - 4th avenue
-    '126':
-      synonyms:
-      - 50th street 7th avenue
-      - 50th street 1 train
-      - 50th and 7th
-      - 50th street IRT
-    A25:
-      synonyms:
-      - 50th street 8th avenue
-      - 50th street A train
-      - 50th street E train
-      - 50th street C train
-      - 50th street C and E trains
-      - 50th and 8th
-      - 50th street IND
-    B14:
-      synonyms:
-      - 50th street new utrecht avenue
-      - 50th street D train
-      - 50th street west end line
-      - 50th street BMT
-      - 50th street brooklyn
-      - 50th and new utrecht
-    '630':
-      synonyms:
-      - 51st street
-    '713':
-      synonyms:
-      - 52nd street
-    R40:
-      synonyms:
-      - 53rd street
-    B15:
-      synonyms:
-      - 55th street
-    B10:
-      synonyms:
-      - 57th street
-      - 57th street F train
-      - 57th street IND
-      - 57th street 6th avenue
-      - 57th and 6th
-    R14:
-      synonyms:
-      - 57th street 7th avenue
-      - 57 street W train
-      - 57 street R train
-      - 57 street Q train
-      - 57 street N train
-      - 57 street N Q R and W trains
-      - 57th street broadway line
-      - 57th street BMT
-      - 57th street midtown
-      - 57th and 7th
-    R41:
-      synonyms:
-      - 59th street 4th avenue
-      - 59th street R train
-      - 59th street N train
-      - 59th street N and R trains
-      - 59th street brooklyn
-      - 59th and 4th
-    A24:
-      synonyms:
-      - 59th street columbus circle 8th avenue line
-      - columbus circle A B C and D trains
-      - 59th street columbus circle D train
-      - 59th street columbus circle C train
-      - 59th street columbus circle B train
-      - 59th street columbus circle A train
-      - 59th street columbus circle IND
-      - 59th street columbus circle A B C and D trains
-      - columbus circle 8th avenue line
-    '125':
-      synonyms:
-      - 59th street columbus circle broadway 7th avenue line
-      - columbus circle 1 train
-      - columbus circle broadway line
-      - 59th street columbus circle IRT
-      - 59th street columbus circle 1 train
-      - 59th street columbus circle 7th avenue line
-      - columbus circle 7th avenue line
-      - columbus circle broadway 7th avenue line
-    '629':
-      synonyms:
-      - 59th street lexington avenue
-      - 59th and lexington
-      - 59th street 6 train
-      - 59th street 5 train
-      - 59th street 4 train
-      - 59th street 4 5 and 6 trains
-      - 59th and lex
-    '724':
-      synonyms:
-      - 5th avenue
-      - 5th avenue 7 train
-      - 5th avenue bryant park
-    F12:
-      synonyms:
-      - 5th avenue 53rd street
-    R13:
-      synonyms:
-      - 5th avenue 59th street
-    B16:
-      synonyms:
-      - 62nd street
-    G10:
-      synonyms:
-      - 63rd drive rego park
-    G15:
-      synonyms:
-      - 65th street
-    '124':
-      synonyms:
-      - 66th street lincoln center
-    G09:
-      synonyms:
-      - 67th avenue
-    '628':
-      synonyms:
-      - 68th street hunter college
-    '711':
-      synonyms:
-      - 69th street
-    L02:
-      synonyms:
-      - 6th avenue
-    B17:
-      synonyms:
-      - 71st street
-    Q03:
-      synonyms:
-      - 72nd street 2nd avenue
-      - 72nd street Q train
-      - 72nd and 2nd
-    '123':
-      synonyms:
-      - 72nd street broadway
-      - 72nd street 7th avenue line
-      - 72nd street 3 train
-      - 72nd street 2 train
-      - 72nd street 1 train
-      - 72nd street 1 2 and 3 trains
-      - 72nd street IRT
-      - 72nd and broadway
-    A22:
-      synonyms:
-      - 72nd street central park west
-      - 72nd street A train
-      - 72nd street C train
-      - 72nd street B train
-      - 72nd street B and C trains
-      - 72nd and CPW
-      - 72nd and central park west
-    '710':
-      synonyms:
-      - 74th street broadway
-    F07:
-      synonyms:
-      - 75th avenue
-    J17:
-      synonyms:
-      - 75th street elderts lane
-      - 75th street
-    R43:
-      synonyms:
-      - 77th street 4th avenue
-      - 77th street brooklyn
-      - 77th street R train
-    '627':
-      synonyms:
-      - 77th street lexington avenue
-      - 77th street 6 train
-      - 77th and lexington
-      - 77th and lex
-      - 77th street manhattan
-    '122':
-      synonyms:
-      - 79th street broadway
-      - 79th street 7th avenue line
-      - 79th street manhattan
-      - 79th street IRT
-      - 79th street 1 train
-      - 79th and broadway
-    B18:
-      synonyms:
-      - 79th street new utrecht avenue
-      - 79th street brooklyn
-      - 79th street west end line
-      - 79th street BMT
-      - 79th street D train
-      - 79th and new utrecht
-    D14:
-      synonyms:
-      - 7th avenue 53rd street
-      - 7th avenue 8th avenue line
-      - 7th avenue 6th avenue line
-      - 7th avenue queens boulevard line
-      - 7th avenue IND
-    F24:
-      synonyms:
-      - 7th avenue 9th street
-      - 7th avenue culver line
-      - 7th avenue G train
-      - 7th avenue F train
-      - 7th avenue F and G trains
-      - 7th avenue park slope
-      - 7th and 9th
-    D25:
-      synonyms:
-      - 7th avenue flatbush avenue
-      - 7th avenue brighton line
-      - 7th avenue Q train
-      - 7th avenue B train
-      - 7th avenue B and Q trains
-      - 7th and flatbush
-    A59:
-      synonyms:
-      - 80th street
-    A21:
-      synonyms:
-      - 81st street museum of natural history
-    '709':
-      synonyms:
-      - 82nd street jackson heights
-    J16:
-      synonyms:
-      - 85th street forest parkway
-    Q04:
-      synonyms:
-      - 86th street 2nd avenue
-      - 86th street Q train
-      - 86th and 2nd
-    R44:
-      synonyms:
-      - 86th street 4th avenue
-      - 86th street R train
-      - 86th and 4th
-    '121':
-      synonyms:
-      - 86th street broadway
-      - 86th street 1 train
-      - 86th and broadway
-    A20:
-      synonyms:
-      - 86th street central park west
-      - 86th street A train
-      - 86th street C train
-      - 86th street B train
-      - 86th street B and C trains
-      - 86th and CPW
-      - 86th and central park west
-    '626':
-      synonyms:
-      - 86th street lexington avenue
-      - 86th street 6 train
-      - 86th street 5 train
-      - 86th street 4 train
-      - 86th street 4 5 and 6 trains
-      - 86th and lexington
-      - 86th and lex
-    N10:
-      synonyms:
-      - 86th street west 7th street
-      - gravesend 86th street
-      - 86th street N train
-      - 86th street sea beach line
-      - 86th and west 7th
-    A60:
-      synonyms:
-      - 88th street
-    L01:
-      synonyms:
-      - 8th avenue 14th street
-      - 8th avenue manhattan
-      - 8th avenue L train
-    N02:
-      synonyms:
-      - 8th avenue 62nd street
-      - 8th avenue sea beach line
-      - 8th avenue N train
-      - 8th avenue sunset park
-      - 8th avenue brooklyn
+    R18:
+      synonyms:
+      - 28th street broadway
+      - 28th street W train
+      - 28th street R train
+      - 28th street Q train
+      - 28th street N train
+      - 28th street R and W trains
+      - 28th and broadway
+    R19:
+      synonyms:
+      - 23rd street broadway
+      - 23rd street Q train
+      - 23rd street N train
+      - 23rd street W train
+      - 23rd street R train
+      - 23rd street R and W trains
+      - 23rd and broadway
+    R20:
+      synonyms:
+      - 14th street union square broadway line
+      - 14th street union square W train
+      - 14th street union square R train
+      - 14th street union square Q train
+      - 14th street union square N train
+      - union square N Q R and W trains
+      - 14th street union square N Q R and W trains
+      - union square broadway line
+    R20,L03,635:
+      synonyms:
+      - 14th street union square
+      - 14th and park
+      - 14th and broadway
+      - union square
     R21:
       synonyms:
       - 8th street nyu
-    '708':
+    R22:
       synonyms:
-      - 90th street elmhurst avenue
-    Q05:
-      synonyms:
-      - 96th street 2nd avenue
-      - 96th street Q train
-      - 96th and 2nd
-    '120':
-      synonyms:
-      - 96th street broadway
-      - 96th street 3 train
-      - 96th street 2 train
-      - 96th street 1 train
-      - 96th street 1 2 and 3 trains
-      - 96th street 7th avenue line
-      - 96th and broadway
-    A19:
-      synonyms:
-      - 96th street central park west
-      - 96th street A train
-      - 96th and CPW
-      - 96th and central park west
-      - 96th street C train
-      - 96th street B train
-      - 96th street B and C trains
-    '625':
-      synonyms:
-      - 96th street lexington avenue
-      - 96th street 6 train
-      - 96th and lexington
-      - 96th and lex
-    B12:
-      synonyms:
-      - 9th avenue
-    R33:
-      synonyms:
-      - 9th street
-    J24:
-      synonyms:
-      - alabama avenue
-    '210':
-      synonyms:
-      - allerton avenue
-    S17:
-      synonyms:
-      - annadale
-    H02:
-      synonyms:
-      - aqueduct north conduit avenue
-      - aqueduct
-    H01:
-      synonyms:
-      - aqueduct racetrack
-    S11:
-      synonyms:
-      - arthur kill
-    '636':
-      synonyms:
-      - astor place
-    R03:
-      synonyms:
-      - astoria boulevard
-    R01:
-      synonyms:
-      - astoria ditmars boulevard
-      - ditmars boulevard
-    S10:
-      synonyms:
-      - atlantic
-    L24:
-      synonyms:
-      - atlantic avenue
-      - atlantic avenue L train
-    R31:
-      synonyms:
-      - atlantic avenue barclays center 4th avenue line
-      - atlantic avenue barclays center R train
-      - atlantic avenue barclays center N train
-      - atlantic avenue barclays center D train
-      - barclays center D N and R trains
-      - atlantic avenue D N and R trains
-      - atlantic avenue barclays center D N and R trains
-      - pacific street
-      - atlantic avenue pacific street
-      - barclays center 4th avenue line
-    D24:
-      synonyms:
-      - atlantic avenue barclays center brighton line
-      - atlantic avenue barclays center Q train
-      - atlantic avenue barclays center B train
-      - atlantic avenue B and Q trains
-      - barclays center B and Q trains
-      - atlantic avenue barclays center B and Q trains
-      - barclays center brighton line
-    '235':
-      synonyms:
-      - atlantic avenue barclays center eastern parkway line
-      - atlantic avenue barclays center 5 train
-      - atlantic avenue barclays center 4 train
-      - atlantic avenue barclays center 3 train
-      - atlantic avenue barclays center 2 train
-      - atlantic avenue 2 3 4 and 5 trains
-      - barclays center 2 3 4 and 5 trains
-      - atlantic avenue barclays center 2 3 4 and 5 trains
-      - barclays center eastern parkway line
-    D32:
-      synonyms:
-      - avenue h
-    F31:
-      synonyms:
-      - avenue i
-    D33:
-      synonyms:
-      - avenue j
-    D34:
-      synonyms:
-      - avenue m
-    F33:
-      synonyms:
-      - avenue n
-    F34:
-      synonyms:
-      - avenue p
-    D37:
-      synonyms:
-      - avenue u east 16th street
-      - avenue u Q train
-      - avenue u brighton line
-    F36:
-      synonyms:
-      - avenue u mcdonald avenue
-      - avenue u F train
-      - avenue u culver line
-    N09:
-      synonyms:
-      - avenue u west 7th street
-      - avenue u N train
-      - avenue u sea beach line
-    F38:
-      synonyms:
-      - avenue x
-    B23:
-      synonyms:
-      - bay 50th street
-    B21:
-      synonyms:
-      - bay parkway 86th street
-      - bay parkway D train
-      - bay parkway west end line
-    N07:
-      synonyms:
-      - bay parkway avenue o
-      - bay parkway N train
-      - bay parkway sea beach line
-    F32:
-      synonyms:
-      - bay parkway mcdonald avenue
-      - bay parkway F train
-      - bay parkway culver line
-    R45:
-      synonyms:
-      - bay ridge 95th street
-      - 95th street
-    R42:
-      synonyms:
-      - bay ridge avenue
-    S20:
-      synonyms:
-      - bay terrace
-    '502':
-      synonyms:
-      - baychester avenue
-    H14:
-      synonyms:
-      - beach 105th street
-    H10:
-      synonyms:
-      - beach 25th street
-    H09:
-      synonyms:
-      - beach 36th street
-    H08:
-      synonyms:
-      - beach 44th street
-    H07:
-      synonyms:
-      - beach 60th street
-    H06:
-      synonyms:
-      - beach 67th street
-    H12:
-      synonyms:
-      - beach 90th street
-    H13:
-      synonyms:
-      - beach 98th street
-    L08:
-      synonyms:
-      - bedford avenue
-    G33:
-      synonyms:
-      - bedford nostrand avenues
-      - bedford nordstrom avenues
-    D03:
-      synonyms:
-      - bedford park boulevard
-    '405':
-      synonyms:
-      - bedford park boulevard lehman college
-    '236':
-      synonyms:
-      - bergen street flatbush avenue
-      - bergen street IRT
-      - bergen street eastern parkway line
-      - bergen street 3 train
-      - bergen street 2 train
-      - bergen street 2 and 3 trains
-    F20:
-      synonyms:
-      - bergen street smith street
-      - bergen street IND
-      - bergen street culver line
-      - bergen street G train
-      - bergen street F train
-      - bergen street F and G trains
-    D29:
-      synonyms:
-      - beverley road east 16th street
-      - beverley road BMT
-      - beverley road Q train
-      - beverley road brighton line
-    '245':
-      synonyms:
-      - beverly road nostrand avenue
-      - beverly road nordstrom avenue
-      - beverly road 5 train
-      - beverly road 2 train
-      - beverly road 2 and 5 trains
-      - beverly road IRT
-    '637':
-      synonyms:
-      - bleecker street
-    '232':
-      synonyms:
-      - borough hall 7th avenue line
-      - borough hall 3 train
-      - borough hall 2 train
-      - borough hall 2 and 3 trains
-    '423':
-      synonyms:
-      - borough hall lexington avenue line
-      - borough hall 5 train
-      - borough hall 4 train
-      - borough hall 4 and 5 trains
-      - borough hall eastern parkway line
-    S04:
-      synonyms:
-      - botanic garden
-    M19:
-      synonyms:
-      - bowery
-    '420':
-      synonyms:
-      - bowling green
-    F05:
-      synonyms:
-      - briarwood van wyck boulevard
-      - briarwood
-    D40:
-      synonyms:
-      - brighton beach
-    H04:
-      synonyms:
-      - broad channel
-    M23:
-      synonyms:
-      - broad street
-    R05:
-      synonyms:
-      - broadway 31st street
-      - broadway BMT
-      - broadway astoria line
-      - broadway W train
-      - broadway N train
-      - broadway N and W trains
-      - broadway astoria
-      - broadway queens
-    L22:
-      synonyms:
-      - broadway junction canarsie line
-      - broadway junction L train
-    A51:
-      synonyms:
-      - broadway junction fulton street line
-      - broadway junction IND
-      - broadway junction C train
-      - broadway junction A train
-      - broadway junction A and C trains
-      - broadway east new york
-    J27:
-      synonyms:
-      - broadway junction jamaica line
-      - broadway junction Z train
-      - broadway junction J train
-      - broadway junction J and Z trains
-      - broadway junction eastern parkway
-    D21:
-      synonyms:
-      - broadway lafayette street
-    G30:
-      synonyms:
-      - broadway union avenue
-      - broadway williamsburg
-      - broadway IND
-      - broadway crosstown line
-      - broadway G train
-      - broadway brooklyn
-    '212':
-      synonyms:
-      - bronx park east
-    '618':
-      synonyms:
-      - brook avenue
-    '640':
-      synonyms:
-      - brooklyn bridge city hall
-    '602':
-      synonyms:
-      - buhre avenue
-    '209':
-      synonyms:
-      - burke avenue
-    '409':
-      synonyms:
-      - burnside avenue
-    L21:
-      synonyms:
-      - bushwick avenue aberdeen street
-    A34:
-      synonyms:
-      - canal street 6th avenue
-      - canal street E train
-      - canal street C train
-      - canal street A train
-      - canal street A C and E trains
-      - canal street 8th avenue line
-      - canal and 6th
-    Q01:
-      synonyms:
-      - 'canal street broadway lower level '
-      - canal street Q train
-      - canal street N train
-      - canal street N and Q trains
-      - canal street via bridge
-      - canal street bridge line
-      - canal street manhattan bridge
+      - prince street
     R23:
       synonyms:
       - 'canal street broadway upper level '
@@ -1541,186 +2499,34 @@ synonym:
       - canal street via tunnel
       - canal street lower manhattan
       - canal street main line
-    M20:
-      synonyms:
-      - canal street centre street
-      - canal and centre
-      - canal street jamaica line
-      - canal street nassau street line
-      - canal street Z train
-      - canal street J train
-      - canal street J and Z trains
-    '639':
-      synonyms:
-      - canal street lafayette street
-      - canal street 6 train
-      - canal street lex line
-      - canal street lexington avenue line
-      - canal and lafayette
-    '135':
-      synonyms:
-      - canal street varick street
-      - canal street 1 train
-      - canal street broadway 7th avenue line
-      - canal street 7th avenue line
-      - canal and varick
-    L29:
-      synonyms:
-      - canarsie rockaway parkway
-      - rockaway parkway
-      - canarsie
-    F21:
-      synonyms:
-      - carroll street
-    '607':
-      synonyms:
-      - castle hill avenue
-    '118':
-      synonyms:
-      - cathedral parkway 110th street broadway
-      - cathedral parkway 110th street 1 train
-      - 110th street 1 train
-      - cathedral parkway 1 train
-      - cathedral parkway and broadway
-      - 110th street and broadway
-    A17:
-      synonyms:
-      - cathedral parkway 110th street frederick douglass boulevard
-      - cathedral parkway 110th street C train
-      - cathedral parkway 110th street B train
-      - cathedral parkway 110th street B and C trains
-      - 110th street B and C trains
-      - cathedral parkway B and C trains
-      - cathedral parkway and frederick douglass
-      - 110th street and frederick douglass
-    M10:
-      synonyms:
-      - central avenue
-    '227':
-      synonyms:
-      - central park north 110th street
-      - 110th and malcolm x
-      - 110th and lenox
-      - 110th street 2 and 3 trains
-    M21:
-      synonyms:
-      - chambers street centre street
-      - chambers street BMT
-      - chambers and centre
-      - chambers street Z train
-      - chambers street J train
-      - chambers street J and Z trains
-      - chambers street jamaica line
-      - chambers street nassau street line
-    A36:
-      synonyms:
-      - chambers street church street
-      - chambers street C train
-      - chambers street A train
-      - chambers street A and C trains
-      - chambers street IND
-      - chambers street 8th avenue line
-      - chambers and church
-    '137':
-      synonyms:
-      - chambers street west broadway
-      - chambers street 3 train
-      - chambers street 2 train
-      - chambers street 1 train
-      - chambers street 1 2 and 3 trains
-      - chambers street IRT
-      - chambers street 7th avenue line
-      - chambers street broadway 7th avenue line
-      - chambers and west broadway
-    J28:
-      synonyms:
-      - chauncey street
-    '133':
-      synonyms:
-      - christopher street sheridan square
-    D28:
-      synonyms:
-      - church avenue east 18th street
-      - church avenue Q train
-      - church avenue brighton line
-    F27:
-      synonyms:
-      - church avenue mcdonald avenue
-      - church avenue G train
-      - church avenue F train
-      - church avenue F and G trains
-      - church avenue culver line
-    '244':
-      synonyms:
-      - church avenue nostrand avenue
-      - church avenue nordstrom avenue
-      - church avenue 5 train
-      - church avenue 2 train
-      - church avenue 2 and 5 trains
     R24:
       synonyms:
       - city hall
-    '231':
-      synonyms:
-      - clark street
-    G34:
-      synonyms:
-      - classon avenue
-    J22:
-      synonyms:
-      - cleveland street
-    S28:
-      synonyms:
-      - clifton
-    A44:
-      synonyms:
-      - clinton washington avenues fulton street
-      - clinton washington avenues A train
-      - clinton washington avenues C train
-    G35:
-      synonyms:
-      - clinton washington avenues lafayette avenue
-      - clinton washington avenues crosstown line
-      - clinton washington avenues G train
-    D43:
-      synonyms:
-      - coney island stillwell avenue
-    D30:
-      synonyms:
-      - cortelyou road
     R25:
       synonyms:
       - cortlandt street
-    F09:
+    R26:
       synonyms:
-      - court square 23rd street
-      - court square M train
-      - court square E train
-      - court square E and M trains
-      - court square queens boulevard line
-    G22:
+      - rector street trinity place
+      - rector and trinity
+      - rector street R train
+      - rector street broadway line
+      - rector street BMT
+    R27:
       synonyms:
-      - court square crosstown line
-      - court square G train
-    '719':
-      synonyms:
-      - court square flushing line
-      - court square 7 train
+      - whitehall street south ferry
+      - whitehall street
     R28:
       synonyms:
       - court street
-    J20:
+    R29:
       synonyms:
-      - crescent street
-    '250':
+      - jay street metrotech 4th avenue line
+      - lawrence street metrotech
+      - jay street metrotech R train
+    R29,A41:
       synonyms:
-      - crown heights utica avenue
-    '617':
-      synonyms:
-      - cypress avenue
-    J19:
-      synonyms:
-      - cypress hills
+      - jay street metrotech
     R30:
       synonyms:
       - dekalb avenue flatbush avenue extension
@@ -1734,612 +2540,95 @@ synonym:
       - dekalb avenue 4th avenue and brighton lines
       - dekalb avenue 4th avenue line
       - dekalb avenue brighton line
-    L16:
+    R30,L16:
       synonyms:
-      - dekalb avenue wyckoff avenue
-      - dekalb and wyckoff
-      - dekalb avenue canarsie line
-      - dekalb avenue L train
-    F15:
+      - dekalb avenue
+    R31:
       synonyms:
-      - delancey street
-    F29:
+      - atlantic avenue barclays center 4th avenue line
+      - atlantic avenue barclays center R train
+      - atlantic avenue barclays center N train
+      - atlantic avenue barclays center D train
+      - barclays center D N and R trains
+      - atlantic avenue D N and R trains
+      - atlantic avenue barclays center D N and R trains
+      - pacific street
+      - atlantic avenue pacific street
+      - barclays center 4th avenue line
+    R31,D24,235:
       synonyms:
-      - ditmas avenue
-    S25:
+      - atlantic avenue barclays center
+      - barclays center
+    R32:
       synonyms:
-      - dongan hills
-    '109':
+      - union street
+    R33:
       synonyms:
-      - dyckman street nagle avenue
-      - dikeman street nagle avenue
-      - dyckman street broadway 7th avenue line
-      - dyckman street IRT
-      - dyckman street 1 train
-    A03:
+      - 9th street
+    R34:
       synonyms:
-      - dyckman street broadway
-      - dikeman street broadway
-      - dyckman 200th streets
-      - dyckman street 200th street
-      - dyckman street A train
-      - dyckman street IND
-      - dyckman street 8th avenue line
-    L28:
+      - prospect avenue 4th avenue
+      - prospect avenue R train
+      - prospect avenue brooklyn
+      - prospect and 4th
+    R34,219:
       synonyms:
-      - east 105th street
-    '616':
+      - prospect avenue
+    R35:
       synonyms:
-      - east 143rd street saint mary's street
-    '615':
+      - 25th street
+    R36:
       synonyms:
-      - east 149th street
-    '213':
+      - 36th street 4th avenue
+      - 36th street D train
+      - 36th street N train
+      - 36th street brooklyn
+    R36,G20:
       synonyms:
-      - east 180th street
-    F16:
+      - 36th street
+      - 36th street R train
+    R39:
       synonyms:
-      - east broadway
-    '501':
+      - 45th street
+    R40:
       synonyms:
-      - eastchester dyre avenue
-      - eastchester
-      - dyre avenue
-    '238':
+      - 53rd street
+    R41:
       synonyms:
-      - eastern parkway brooklyn museum
-    '611':
+      - 59th street 4th avenue
+      - 59th street R train
+      - 59th street N train
+      - 59th street N and R trains
+      - 59th street brooklyn
+      - 59th and 4th
+    R41,629,A24,125:
       synonyms:
-      - elder avenue
-    G13:
+      - 59th street
+    R42:
       synonyms:
-      - elmhurst avenue
-    S18:
+      - bay ridge avenue
+    R43:
       synonyms:
-      - eltingville
-    M18:
+      - 77th street 4th avenue
+      - 77th street brooklyn
+      - 77th street R train
+    R43,627:
       synonyms:
-      - essex street
-    A55:
+      - 77th street
+    R44:
       synonyms:
-      - euclid avenue
-    H11:
+      - 86th street 4th avenue
+      - 86th street R train
+      - 86th and 4th
+    R45:
       synonyms:
-      - far rockaway mott avenue
-      - mott avenue
-      - far rockaway
-    '247':
-      synonyms:
-      - flatbush avenue brooklyn college
-      - brooklyn college
-      - flatbush avenue
-    M12:
-      synonyms:
-      - flushing avenue broadway
-      - flushing avenue jamaica line
-      - flushing avenue M trains
-      - flushing avenue J train
-      - flushing avenue J and M trains
-      - flushing avenue BMT
-      - flushing and broadway
-    G31:
-      synonyms:
-      - flushing avenue union avenue
-      - flushing avenue crosstown line
-      - flushing avenue G train
-      - flushing avenue IND
-      - flushing and union
-    '701':
-      synonyms:
-      - flushing main street
-      - main street
-      - flushing
-    D05:
-      synonyms:
-      - fordham road grand concourse
-      - fordham road D train
-      - fordham road B train
-      - fordham road B and D trains
-      - fordham and concourse
-    '407':
-      synonyms:
-      - fordham road jerome avenue
-      - fordham road 4 train
-      - fordham and jerome
-    M05:
-      synonyms:
-      - forest avenue
-    G08:
-      synonyms:
-      - forest hills 71st avenue
-      - forest hills continental
-      - 71st continental avenues
-      - continental avenue
-      - forest hills
-      - 71st avenue
-    N03:
-      synonyms:
-      - fort hamilton parkway 62nd street
-      - fort hamilton parkway N train
-      - fort hamilton parkway sea beach line
-    B13:
-      synonyms:
-      - fort hamilton parkway new utrecht avenue
-      - fort hamilton parkway D train
-      - fort hamilton parkway west end line
-    F26:
-      synonyms:
-      - fort hamilton parkway prospect avenue
-      - fort hamilton parkway G train
-      - fort hamilton parkway F train
-      - fort hamilton parkway F and G trains
-      - fort hamilton parkway culver line
-    A45:
-      synonyms:
-      - franklin avenue fulton street
-      - franklin avenue fulton street line
-      - franklin avenue C train
-    '239':
-      synonyms:
-      - franklin avenue medgar evers college
-      - franklin avenue 5 train
-      - franklin avenue 4 train
-      - franklin avenue 3 train
-      - franklin avenue 2 train
-      - franklin avenue 2 3 4 and 5 trains
-      - franklin avenue IRT
-      - franklin avenue eastern parkway
+      - bay ridge 95th street
+      - 95th street
     S01:
       synonyms:
       - franklin avenue shuttle
       - franklin avenue S train
       - franklin avenue shuttle platform
-    '136':
-      synonyms:
-      - franklin street
-    '216':
-      synonyms:
-      - freeman street
-    M04:
-      synonyms:
-      - fresh pond road
-    '229':
-      synonyms:
-      - fulton street broadway nassau street 7th avenue line
-      - fulton street 3 train
-      - fulton street 2 train
-      - fulton street 2 and 3 trains
-      - fulton street 7th avenue line
-    A38:
-      synonyms:
-      - fulton street broadway nassau street 8th avenue line
-      - fulton street C train
-      - fulton street A train
-      - fulton street A and C trains
-      - fulton street 8th avenue line
-    '418':
-      synonyms:
-      - fulton street broadway nassau street lexington avenue  line
-      - fulton street 4 and 5 trains
-      - fulton street 5 train
-      - fulton street 4 train
-      - fulton street lexington avenue line
-    M22:
-      synonyms:
-      - fulton street broadway nassau street nassau street line
-      - fulton street Z train
-      - fulton street J train
-      - fulton street J and Z trains
-      - fulton street jamaica line
-      - fulton street nassau street line
-    G36:
-      synonyms:
-      - fulton street lafayette avenue
-      - fulton street G train
-      - fulton street brooklyn
-      - fulton street crosstown line
-    J30:
-      synonyms:
-      - gates avenue
-    L11:
-      synonyms:
-      - graham avenue
-    '237':
-      synonyms:
-      - grand army plaza
-    G12:
-      synonyms:
-      - grand avenue newtown
-      - grand avenue
-    '901':
-      synonyms:
-      - grand central 42nd street 42nd street shuttle
-      - grand central 42nd street S train
-      - grand central shuttle
-      - grand central 42nd street shuffle platform
-    '723':
-      synonyms:
-      - grand central 42nd street flushing line
-      - grand central flushing line
-      - grand central 7 train
-      - grand central 42nd street 7 train
-    '631':
-      synonyms:
-      - grand central 42nd street lexington avenue line
-      - grand central lexington avenue line
-      - grand central 42nd street lex line
-      - 42nd street 4 5 and 6 trains
-      - grand central 4 5 and 6 trains
-      - grand central 42nd street 4 5 and 6 trains
-    L12:
-      synonyms:
-      - grand street bushwick avenue
-      - grand and bushwick
-      - grand street canarsie line
-      - grand street L train
-      - grand street brooklyn
-    D22:
-      synonyms:
-      - grand street chrystie street
-      - grand street manhattan bridge
-      - grand street sixth avenue line
-      - grand and chrystie
-      - grand street D train
-      - grand street B train
-      - grand street B and D trains
-    A57:
-      synonyms:
-      - grant avenue
-    S23:
-      synonyms:
-      - grant city
-    S27:
-      synonyms:
-      - grasmere
-    S19:
-      synonyms:
-      - great kills
-    G26:
-      synonyms:
-      - greenpoint avenue
-    '503':
-      synonyms:
-      - gun hill road seymour avenue
-      - gun hill road 5 train
-      - gun hill road dyre avenue line
-    '208':
-      synonyms:
-      - gun hill road white plains road
-      - gun hill road 2 train
-      - gun hill road 2 and 5 trains
-    J29:
-      synonyms:
-      - halsey street broadway
-      - halsey and broadway
-      - halsey street J train
-      - halsey street jamaica line
-    L19:
-      synonyms:
-      - halsey street wyckoff avenue
-      - halsey and wyckoff
-      - halsey street L train
-      - halsey street canarsie line
-    '301':
-      synonyms:
-      - harlem 148th street
-      - lenox terminal
-      - 148th street
-    M14:
-      synonyms:
-      - hewes street
-    A40:
-      synonyms:
-      - high street
-    '134':
-      synonyms:
-      - houston street
-      - squarespace
-    H03:
-      synonyms:
-      - howard beach JFK airport
-      - howard beach
-    A42:
-      synonyms:
-      - hoyt schermerhorn streets
-      - hoyt skimmerhorn streets
-      - hoyt skimmerhorn
-      - hoyt sermerhorn streets
-      - hoyt sermerhorn
-      - hoyt skimerhorn
-      - hoyt skimerhorn streets
-      - hoyt schermerhorn
-    '233':
-      synonyms:
-      - hoyt street
-    S16:
-      synonyms:
-      - huguenot
-    '720':
-      synonyms:
-      - hunters point avenue
-    '613':
-      synonyms:
-      - hunts point avenue
-    '218':
-      synonyms:
-      - intervale avenue
-    A02:
-      synonyms:
-      - inwood 207th street
-      - inwood
-    '220':
-      synonyms:
-      - jackson avenue
-    G14:
-      synonyms:
-      - jackson heights roosevelt avenue
-    F01:
-      synonyms:
-      - jamaica 179th street
-      - 179th street
-    G05:
-      synonyms:
-      - jamaica center parsons archer
-      - jamaica center
-    G07:
-      synonyms:
-      - jamaica van wyck
-    R29:
-      synonyms:
-      - jay street metrotech 4th avenue line
-      - lawrence street metrotech
-      - jay street metrotech R train
-    A41:
-      synonyms:
-      - jay street metrotech fulton street and culver lines
-      - jay street metrotech F train
-      - jay street metrotech C train
-      - jay street metrotech A train
-      - jay street metrotech A C and F trains
-      - jay street metrotech culver line
-      - jay street metrotech fulton street line
-      - jay street borough hall
-    S24:
-      synonyms:
-      - jefferson avenue
-    L15:
-      synonyms:
-      - jefferson street
-    '707':
-      synonyms:
-      - junction boulevard
-    '254':
-      synonyms:
-      - junius street
-    F06:
-      synonyms:
-      - kew gardens union turnpike
-    D35:
-      synonyms:
-      - kings highway east 16th street
-      - kings highway Q train
-      - kings highway brighton line
-    F35:
-      synonyms:
-      - kings highway mcdonald avenue
-      - kings highway F train
-      - kings highway culver line
-    N08:
-      synonyms:
-      - kings highway west 7th street
-      - kings highway N train
-      - kings highway sea beach line
-    D04:
-      synonyms:
-      - kingsbridge road grand concourse
-      - kingsbridge road D train
-      - kingsbridge road B train
-      - kingsbridge road B and D trains
-      - kingsbridge and concourse
-    '406':
-      synonyms:
-      - kingsbridge road jerome avenue
-      - kingsbridge road 4 train
-      - kingsbridge and jerome
-    '249':
-      synonyms:
-      - kingston avenue
-    A47:
-      synonyms:
-      - kingston throop avenues
-    M09:
-      synonyms:
-      - knickerbocker avenue
-    J31:
-      synonyms:
-      - kosciuszko street
-    A43:
-      synonyms:
-      - lafayette avenue
-    F11:
-      synonyms:
-      - lexington avenue 53rd street
-    R11:
-      synonyms:
-      - lexington avenue 59th street
-    B08:
-      synonyms:
-      - lexington avenue 63rd street
-    A52:
-      synonyms:
-      - liberty avenue
-    L26:
-      synonyms:
-      - livonia avenue
-    '614':
-      synonyms:
-      - longwood avenue
-    M13:
-      synonyms:
-      - lorimer street broadway
-      - lorimer street M train
-      - lorimer street J train
-      - lorimer street J and M trains
-      - lorimer and broadway
-      - lorimer street jamaica line
-    L10:
-      synonyms:
-      - lorimer street metropolitan avenue
-      - lorimer street L train
-      - lorimer street canarsie line
-      - lorimer and metropolitan
-      - lorimer and metro
-      - lorimer and met
-    '106':
-      synonyms:
-      - marble hill 225th street
-      - marble hill
-    M16:
-      synonyms:
-      - marcy avenue
-    G29:
-      synonyms:
-      - metropolitan avenue
-      - metropolitan avenue union avenue
-    '702':
-      synonyms:
-      - mets willets point
-      - willets point boulevard
-      - shea stadium
-    M01:
-      synonyms:
-      - middle village metropolitan avenue
-      - middle village
-    '603':
-      synonyms:
-      - middletown road
-    L13:
-      synonyms:
-      - montrose avenue
-    L14:
-      synonyms:
-      - morgan avenue
-    '505':
-      synonyms:
-      - morris park
-    '610':
-      synonyms:
-      - morrison avenue sound view
-    '402':
-      synonyms:
-      - mosholu parkway
-    '411':
-      synonyms:
-      - mount eden avenue
-    M11:
-      synonyms:
-      - myrtle avenue
-      - myrtle and broadway
-      - myrtle avenue broadway
-    G32:
-      synonyms:
-      - myrtle willoughby avenues
-    L17:
-      synonyms:
-      - myrtle wyckoff avenues canarsie line
-      - myrtle wyckoff avenues L train
-    M08:
-      synonyms:
-      - myrtle wyckoff avenues myrtle avenue line
-      - myrtle wyckoff avenues M train
-    S12:
-      synonyms:
-      - nassau
-    G28:
-      synonyms:
-      - nassau avenue
-    D38:
-      synonyms:
-      - neck road
-    F39:
-      synonyms:
-      - neptune avenue
-    '204':
-      synonyms:
-      - nereid avenue
-    '234':
-      synonyms:
-      - nevins street
-    S22:
-      synonyms:
-      - new dorp
-    '257':
-      synonyms:
-      - new lots avenue livonia avenue
-      - new lots avenue 3 train
-      - new lots avenue new lots line
-    L27:
-      synonyms:
-      - new lots avenue van sinderen avenue
-      - new lots avenue L train
-      - new lots avenue canarsie line
-    N04:
-      synonyms:
-      - new utrecht avenue
-    '246':
-      synonyms:
-      - newkirk avenue
-    D31:
-      synonyms:
-      - newkirk plaza
-    G16:
-      synonyms:
-      - northern boulevard
-    D01:
-      synonyms:
-      - norwood 205th street
-      - 205th street
-      - norwood
-    J21:
-      synonyms:
-      - norwood avenue
-    '248':
-      synonyms:
-      - nostrand avenue eastern parkway
-      - nordstrom avenue eastern parkway
-      - nostrand and eastern
-      - nostrand avenue 3 train
-    A46:
-      synonyms:
-      - nostrand avenue fulton street
-      - nordstrom avenue fulton street
-      - nostrand avenue C train
-      - nostrand avenue A train
-      - nostrand avenue A and C trains
-      - nostrand and fulton
-    S21:
-      synonyms:
-      - oakwood heights
-    D41:
-      synonyms:
-      - ocean parkway
-    S26:
-      synonyms:
-      - old town
-    A65:
-      synonyms:
-      - ozone park lefferts boulevard
-      - lefferts boulevard
-      - ozone park
-    '228':
-      synonyms:
-      - park place broadway
-      - park place 3 train
-      - park place 2 train
-      - park place 2 and 3 trains
-      - park place broadway 7th avenue line
-      - park place 7th avenue line
-      - park place manhattan
     S03:
       synonyms:
       - park place franklin avenue
@@ -2348,365 +2637,76 @@ synonym:
       - park place franklin avenue shuttle
       - park place brooklyn
       - park place shuttle
-    '608':
+    S04:
       synonyms:
-      - parkchester
-    D27:
-      synonyms:
-      - parkside avenue
-    F03:
-      synonyms:
-      - parsons boulevard
-    '601':
-      synonyms:
-      - pelham bay park
-    '504':
-      synonyms:
-      - pelham parkway esplanade
-      - pelham parkway 5 train
-      - pelham parkway dyre avenue line
-    '211':
-      synonyms:
-      - pelham parkway white plains road
-      - pelham parkway 2 and 5 trains
-      - pelham parkway 2 train
-    '255':
-      synonyms:
-      - pennsylvania avenue
-    S14:
-      synonyms:
-      - pleasant plains
-    '241':
-      synonyms:
-      - president street medgar evers college
-    S15:
-      synonyms:
-      - prince south bay
-    R22:
-      synonyms:
-      - prince street
-    R34:
-      synonyms:
-      - prospect avenue 4th avenue
-      - prospect avenue R train
-      - prospect avenue brooklyn
-      - prospect and 4th
-    '219':
-      synonyms:
-      - prospect avenue westchester avenue
-      - prospect avenue 5 train
-      - prospect avenue 2 train
-      - prospect avenue 2 and 5 trains
-      - prospect avenue bronx
-      - prospect avenue white plains road line
-      - prospect and westchester
-    D26:
-      synonyms:
-      - prospect park
-    G21:
-      synonyms:
-      - queens plaza
-    R09:
-      synonyms:
-      - queensboro plaza astoria line
-      - queensboro plaza W train
-      - queensboro plaza N train
-      - queensboro plaza N and W trains
-      - queensboro plaza BMT
-    '718':
-      synonyms:
-      - queensboro plaza flushing line
-      - queensboro plaza 7 train
-      - queensboro plaza IRT
-    A49:
-      synonyms:
-      - ralph avenue
-    '139':
-      synonyms:
-      - rector street greenwich street
-      - rector and greenwich
-      - rector street 1 train
-      - rector street 7th avenue line
-      - rector street broadway 7th avenue line
-      - rector street IRT
-    R26:
-      synonyms:
-      - rector street trinity place
-      - rector and trinity
-      - rector street R train
-      - rector street broadway line
-      - rector street BMT
-    S13:
-      synonyms:
-      - richmond valley
-    A50:
-      synonyms:
-      - rockaway avenue fulton street
-      - rockaway avenue C train
-    '253':
-      synonyms:
-      - rockaway avenue livonia avenue
-      - rockaway avenue 3 train
-      - rockaway avenue new lots line
-    A61:
-      synonyms:
-      - rockaway boulevard
-    H15:
-      synonyms:
-      - rockaway park beach 116th street
-      - beach 116th street
-      - rockaway park
-    B06:
-      synonyms:
-      - roosevelt island
-    S31:
-      synonyms:
-      - saint george
-    '252':
-      synonyms:
-      - saratoga avenue
-    M06:
-      synonyms:
-      - seneca avenue
-    D39:
-      synonyms:
-      - sheepshead bay
-    A54:
-      synonyms:
-      - shepherd avenue
-    '217':
-      synonyms:
-      - simpson street
-    F22:
-      synonyms:
-      - smith 9th streets
-    '142':
-      synonyms:
-      - south ferry
-    A33:
-      synonyms:
-      - spring street 6th avenue
-      - spring and 6th
-      - spring street 8th avenue line
-      - spring street E train
-      - spring street C train
-      - spring street C and E trains
-    '638':
-      synonyms:
-      - spring street lafayette street
-      - spring street lex line
-      - spring street lexington avenue line
-      - spring street 6 train
-      - spring and lafayette
-    S29:
-      synonyms:
-      - stapleton
-    G19:
-      synonyms:
-      - steinway street
-    '242':
-      synonyms:
-      - sterling street
-    '609':
-      synonyms:
-      - saint lawrence avenue
-    F04:
-      synonyms:
-      - sutphin boulevard
-      - sutphin boulevard F train
-    G06:
-      synonyms:
-      - sutphin boulevard archer avenue JFK airport
-      - sutphin boulevard Z train
-      - sutphin boulevard J train
-      - sutphin boulevard E train
-      - sutphin boulevard E J and Z trains
-      - sutphin boulevard archer avenue
-    L25:
-      synonyms:
-      - sutter avenue
-    '251':
-      synonyms:
-      - sutter avenue rutland road
-    '902':
-      synonyms:
-      - times square 42nd street 42nd street shuttle
-      - times square 42nd street S train
-      - times square shuttle platform
-      - times square 42nd street shuttle platform
-    '127':
-      synonyms:
-      - times square 42nd street 7th avenue line
-      - times square 42nd street 3 train
-      - times square 42nd street 2 train
-      - times square 42nd street 1 train
-      - times square 1 2 and 3 trains
-      - times square 42nd street 1 2 and 3 trains
-    R16:
-      synonyms:
-      - times square 42nd street broadway line
-      - times square 42nd street W train
-      - times square 42nd street R train
-      - times square 42nd street Q train
-      - times square 42nd street N train
-      - times square N Q R and W trains
-      - times square 42nd street N Q R and W trains
-    '725':
-      synonyms:
-      - times square 42nd street flushing line
-      - times square 7 train
-      - times square 42nd street 7 train
-    S30:
-      synonyms:
-      - tompkinsville
+      - botanic garden
     S09:
       synonyms:
       - tottenville
-    D07:
+    S10:
       synonyms:
-      - tremont avenue
-    R32:
+      - atlantic
+    S11:
       synonyms:
-      - union street
-    A48:
+      - arthur kill
+    S12:
       synonyms:
-      - utica avenue
-    '101':
+      - nassau
+    S13:
       synonyms:
-      - van cortlandt park 242nd street
-      - 242nd street
-      - van cortlandt park
-    J23:
+      - richmond valley
+    S14:
       synonyms:
-      - van siclen avenue fulton street
-      - van siclen avenue BMT
-      - van siclen and fulton
-      - van siclen avenue J and Z trains
-      - van siclen avenue Z train
-      - van siclen avenue jamaica line
-      - van siclen avenue J train
-    '256':
+      - pleasant plains
+    S15:
       synonyms:
-      - van siclen avenue livonia avenue
-      - van siclen avenue IRT
-      - van siclen avenue new lots line
-      - van siclen avenue 3 train
-    A53:
+      - prince south bay
+    S16:
       synonyms:
-      - van siclen avenue pitkin avenue
-      - van siclen avenue IND
-      - van siclen and pitkin
-      - van siclen avenue fulton street line
-      - van siclen avenue C train
-    '721':
+      - huguenot
+    S17:
       synonyms:
-      - vernon boulevard jackson avenue
-      - vernon and jackson
-      - vernon jackson avenues
-    '201':
+      - annadale
+    S18:
       synonyms:
-      - wakefield 241st street
-      - 241st street
-      - wakefield
-    '419':
+      - eltingville
+    S19:
       synonyms:
-      - wall street broadway
-      - wall street lex line
-      - wall street lexington avenue line
-      - wall and broadway
-      - wall street 5 train
-      - wall street 4 train
-      - wall street 4 and 5 trains
-    '230':
+      - great kills
+    S20:
       synonyms:
-      - wall street william street
-      - wall street 3 train
-      - wall street 2 train
-      - wall street 2 and 3 trains
-      - wall and william
-      - wall street 7th avenue line
-      - wall street broadway 7th avenue line
-    D20:
+      - bay terrace
+    S21:
       synonyms:
-      - west 4th street washington square lower level
-      - west 4th street washington square M train
-      - west 4th street washington square F train
-      - west 4th street washington square D train
-      - west 4th street washington square B train
-      - west 4th street washington square B D F and M trains
-      - west 4th street washington square 6th avenue line
-      - west 4th street 6th avenue line
-      - west 4th street lower level
-    A32:
+      - oakwood heights
+    S22:
       synonyms:
-      - west 4th street washington square upper level
-      - west 4th street washington square E train
-      - west 4th street washington square C train
-      - west 4th street washington square A train
-      - west 4th street washington square A C and E trains
-      - west 4th street washington square 8th avenue line
-      - west 4th street 8th avenue line
-      - west 4th street upper level
-    D42:
+      - new dorp
+    S23:
       synonyms:
-      - west 8th street ny aquarium
-      - west 8th street
-      - ny aquarium
-    '214':
+      - grant city
+    S24:
       synonyms:
-      - west farms square east tremont avenue
-      - west farms square
-    '604':
+      - jefferson avenue
+    S25:
       synonyms:
-      - westchester square east tremont avenue
-      - westchester square
-    R27:
+      - dongan hills
+    S26:
       synonyms:
-      - whitehall street south ferry
-      - whitehall street
-    '612':
+      - old town
+    S27:
       synonyms:
-      - whitlock avenue
-    L20:
+      - grasmere
+    S28:
       synonyms:
-      - wilson avenue
-    '243':
+      - clifton
+    S29:
       synonyms:
-      - winthrop street
-    J15:
+      - stapleton
+    S30:
       synonyms:
-      - woodhaven boulevard jamaica avenue
-      - woodhaven boulevard Z train
-      - woodhaven boulevard J train
-      - woodhaven boulevard J and Z trains
-      - woodhaven boulevard BMT
-      - woodhaven boulevard jamaica line
-      - woodhaven and jamaica
-    G11:
+      - tompkinsville
+    S31:
       synonyms:
-      - woodhaven boulevard queens boulevard
-      - woodhaven boulevard R train
-      - woodhaven boulevard M train
-      - woodhaven boulevard M and R trains
-      - woodhaven boulevard IND
-    '401':
-      synonyms:
-      - woodlawn
-    '712':
-      synonyms:
-      - woodside 61st street
-      - 61st street woodside
-    E01:
-      synonyms:
-      - world trade center
-      - WTC
-    '138':
-      synonyms:
-      - wtc cortlandt
-    F18:
-      synonyms:
-      - york street
-    '606':
-      synonyms:
-      - zerega avenue
+      - saint george
   matchType: FUZZY_MATCH

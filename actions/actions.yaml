@@ -1,3 +1,8 @@
 custom:
+  LookupTrainStatus: {}
   LookupTrainTimes: {}
-  actions.intent.MAIN: {}
+  TrainDelays: {}
+  actions.intent.MAIN:
+    engagement:
+      assistantLink:
+        title: actions.intent.MAIN
