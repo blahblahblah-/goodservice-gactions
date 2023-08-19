@@ -1,4 +1,6 @@
-# goodservice-gactions
+# goodservice-gactions (Deprecated)
+
+**Google has [deprecated Conversation Actions](https://developers.google.com/assistant/ca-sunset), which means this feature no longer works.**
 
 Repo for [goodservice.io](https://github.com/blahblahblah-/goodservice-v2)'s Google Assistant app using Google Actions SDK.
 
